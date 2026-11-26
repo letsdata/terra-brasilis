@@ -42,8 +42,8 @@ uv venv .venv && uv pip install --python .venv/bin/python shapely numpy pandas r
 python3 -m http.server 8765 --directory web  # abrir http://localhost:8765
 ```
 
-O GitHub Pages publica sozinho a cada push na `main`: `scripts/site.py` monta `_site/` a partir de
-`web/` com as etiquetas de prévia de link.
+Para publicar no GitHub Pages: `sh scripts/publicar.sh` (o `scripts/site.py` monta `_site/` a partir de
+`web/` com as etiquetas de prévia de link e o script envia para a branch `gh-pages`).
 
 Fontes de cada coluna: `dados/FONTES-*.md`. De `dados/brutos/` ficaram só os arquivos que o
 `build.py` lê (grade, rios, países, contornos de municípios e biomas, 24 MB); o resto os scripts
