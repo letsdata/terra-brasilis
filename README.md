@@ -49,6 +49,27 @@ Fontes de cada coluna: `dados/FONTES-*.md`. De `dados/brutos/` ficaram só os ar
 `build.py` lê (grade, rios, países, contornos de municípios e biomas, 24 MB); o resto os scripts
 de coleta baixam de novo.
 
+## Contribua com uma lente nova
+
+Pull requests com lentes novas são bem-vindos: saneamento, violência, clima, eleições, saúde,
+internet, qualquer dado público por município. Uma lente precisa de três passos:
+
+1. **Dado:** um script em `scripts/` que baixa a fonte oficial e grava um CSV por município em
+   `dados/` (coluna `cod` com o código IBGE de 7 dígitos), e um `dados/FONTES-*.md` com a fonte,
+   o ano e a licença.
+2. **Coluna:** em `scripts/build.py`, junte o CSV aos municípios e acrescente a coluna em `COLUNAS`
+   no formato `(chave, nome, tipo, formato, fonte)`. O tipo é `"soma"` para totais (gente, reais,
+   toneladas) ou `"media"` para taxas e médias. Os formatos são `int`, `dec3`, `pct`, `brl`,
+   `brl0`, `km2`, `dens`, `ha`, `mw` e `anos`. Rode `build.py` e a coluna já aparece no Explorador.
+3. **Lente:** em `web/app.js`, acrescente um item em `LENTES`, por exemplo
+   `{ id: 'esgoto', nome: 'Esgoto', ic: '🚽', grupo: 'Gente', modo: 'media', col: 'esgoto',
+   paleta: 'teal', escala: 'quantil', fmt: 'pct', sub: 'Domicílios ligados à rede (Censo 2022)' }`.
+   Os modos são `media` (taxa), `densidade` (total por km², com `num`) e `razao`
+   (Σ`num`/Σ`den`). As paletas são `verde`, `ouro`, `azul`, `rosa`, `fogo`, `terra`, `teal` e
+   `violeta`, e as escalas são `lin`, `log` e `quantil`.
+
+No PR, mande um print da lente e diga de onde vem o dado. Só entram dados públicos com fonte citada.
+
 ## Limites conhecidos
 
 - Valores municipais são repartidos entre hexágonos pela área; dentro de um município grande
