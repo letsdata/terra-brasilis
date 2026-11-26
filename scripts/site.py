@@ -3,7 +3,7 @@ topo do index.html o doctype e as etiquetas de prévia de link (X, WhatsApp, Lin
 
 Uso: python3 scripts/site.py [endereço público]
 """
-import shutil, sys
+import hashlib, shutil, sys
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -37,6 +37,9 @@ def main():
     shutil.copytree(RAIZ / "web", SITE)
     shutil.copy(RAIZ / "divulgacao/mapa-terreno.png", SITE / "capa.png")
     html = (RAIZ / "web/index.html").read_text()
+    # Versão no endereço do script, para o navegador não usar um app.js antigo do cache.
+    versao = hashlib.md5((RAIZ / "web/app.js").read_bytes()).hexdigest()[:8]
+    html = html.replace('src="app.js"', f'src="app.js?v={versao}"')
     (SITE / "index.html").write_text(CABECA + html)
     (SITE / ".nojekyll").write_text("")
     print("ok", SITE)
