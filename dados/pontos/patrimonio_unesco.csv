@@ -1,0 +1,27 @@
+nome,nome_en,lat,lon,cod,uf,tipo,criterios,ano_inscricao,id_unesco,wikidata,nota,cod_metodo
+Cidade Histórica de Ouro Preto,Historic Town of Ouro Preto,-20.385773366,-43.503639899,3146107,MG,cultural,"(i),(iii)",1980,124,Q3845692,,nome_municipio
+Centro Histórico da Cidade de Olinda,Historic Centre of the Town of Olinda,-8.01333333,-34.845,2609600,PE,cultural,"(ii),(iv)",1982,189,Q8343764,,nome_municipio
+Missões Jesuítas Guarani,Jesuit missions among the Guaraní,-27.255280555,-55.531669444,4319158,RS,cultural,(iv),1983,275,Q465960,Sítio transfronteiriço (Argentina e Brasil); coordenada de São Miguel das Missões (RS).,nome_municipio
+"Conjunto Arquitetônico, Paisagístico e Urbanístico Centro Histórico da Cidade de Salvador",Historic Centre of Salvador da Bahia,-12.9667,-38.5,2927408,BA,cultural,"(iv),(vi)",1985,309,Q5572706,,nome_municipio
+Santuário do Bom Jesus de Matosinhos,Sanctuary of Bom Jesus de Matosinhos,-20.507777777,-43.860694444,3118007,MG,cultural,"(i),(iv)",1985,334,Q1595417,,nome_municipio
+Parque Nacional do Iguaçu,Iguaçu National Park,-25.5,-53.95,4108304,PR,natural,"(vii),(x)",1986,355,Q742315,,nome_municipio
+Plano Piloto de Brasília,Pilot Plan of Brasília,-15.793888888,-47.882777777,5300108,DF,cultural,"(i),(iv)",1987,445,Q3391360,,nome_municipio
+Parque Nacional da Serra da Capivara,Serra da Capivara National Park,-8.6667,-42.55,2210607,PI,cultural,(iii),1991,606,Q267394,,nome_municipio
+Centro Histórico de São Luís,Historic Centre of São Luís,-2.52773314,-44.305795125,2111300,MA,cultural,"(iii),(iv),(v)",1997,821,Q8343768,,nome_municipio
+Centro Histórico de Diamantina,Historic Centre of the Town of Diamantina,-18.23333333,-43.6,3121605,MG,cultural,"(ii),(iv)",1999,890,Q8343760,,nome_municipio
+Reservas de Mata Atlântica da Costa do Descobrimento,Discovery Coast Atlantic Forest Reserves,-16.5,-39.25,2925303,BA,natural,"(ix),(x)",1999,892,Q2487302,,ponto_no_poligono
+Reservas de Mata Atlântica do Sudeste,Atlantic Forest South-East Reserves,-24.166666666,-48.0,3551801,SP,natural,"(vii),(ix),(x)",1999,893,Q2521895,,ponto_no_poligono
+Complexo de Conservação da Amazônia Central,Central Amazon Conservation Complex,-2.33333,-62.0083,1303205,AM,natural,"(ix),(x)",2000,998,Q2990490,,ponto_no_poligono
+Área de Conservação do Pantanal,Pantanal Conservation Area,-17.4,-57.5,5102504,MT,natural,"(vii),(ix),(x)",2000,999,Q99237891,"Coordenada do item Q157603 (Pantanal), pois o item do sítio não tem P625.",ponto_no_poligono
+Áreas Protegidas do Cerrado: Parques Nacionais da Chapada dos Veadeiros e das Emas,Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks,-13.966,-47.412,5205307,GO,natural,"(ix),(x)",2001,1035,Q137787234,,ponto_no_poligono
+Centro Histórico de Goiás,Historic Centre of the Town of Goiás,-15.93328,-50.13336,5208905,GO,cultural,"(ii),(iv)",2001,993,Q8343761,,nome_municipio
+Ilhas Atlânticas Brasileiras: Reservas de Fernando de Noronha e do Atol das Rocas,Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves,-3.857944444,-32.42511111,2605459,PE,natural,"(vii),(ix),(x)",2001,1000,Q15224654,,nome_municipio
+Praça São Francisco,São Francisco Square,-11.01361111,-37.20555556,2806701,SE,cultural,"(ii),(iv)",2010,1272,Q7214285,,nome_municipio
+Rio de Janeiro: Paisagens Cariocas entre a Montanha e o Mar,Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea,-22.94777778,-43.29138889,3304557,RJ,cultural,"(v),(vi)",2012,1100,Q3374972,,nome_municipio
+Conjunto Arquitetónico da Pampulha,Pampulha Modern Ensemble,-19.851944444,-43.973611111,3106200,MG,cultural,"(i),(ii),(iv)",2016,1493,Q9850285,,nome_municipio
+Cais do Valongo,Valongo Wharf,-22.897111,-43.187394,3304557,RJ,cultural,(vi),2017,1548,Q20048515,,nome_municipio
+Paraty e Ilha Grande – Cultura e Biodiversidade,Paraty and Ilha Grande – Culture and Biodiversity,-23.0186,-44.6854,3303807,RJ,misto,"(v),(x)",2019,1308,Q66057630,,nome_municipio
+Sítio Roberto Burle Marx,Sítio Roberto Burle Marx,-23.02385,-43.54474,3304557,RJ,cultural,"(ii),(iv)",2021,1620,Q56695607,,nome_municipio
+Parque Nacional dos Lençóis Maranhenses,Lençóis Maranhenses National Park,-2.483333333,-43.133333333,2101707,MA,natural,"(vii),(viii),(x)",2024,1611,Q647777,,nome_municipio
+Área de Proteção Ambiental Cavernas do Peruaçu,Cavernas do Peruaçu Environmental Protection Area,-14.9,-44.05,3135209,MG,natural,"(vii),(viii)",2025,1747,Q5055056,"No Wikidata o ID 1747 está no item da APA Cavernas do Peruaçu (o do Parque Nacional traz ID 1035, erro).",nome_municipio
+Teatros da Amazônia,Amazonia Theaters,-3.130280555,-60.023397222,1302603,AM,cultural,"(ii),(iv),(vi)",2026,1774,Q65561204,Inscrição de 2026 segundo o Wikidata; não conferida na lista oficial (whc.unesco.org bloqueia acesso automatizado).,nome_municipio

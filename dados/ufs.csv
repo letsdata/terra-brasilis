@@ -1,0 +1,28 @@
+cod,sigla,nome,regiao,capital,cod_capital
+11,RO,Rondônia,Norte,Porto Velho,1100205
+12,AC,Acre,Norte,Rio Branco,1200401
+13,AM,Amazonas,Norte,Manaus,1302603
+14,RR,Roraima,Norte,Boa Vista,1400100
+15,PA,Pará,Norte,Belém,1501402
+16,AP,Amapá,Norte,Macapá,1600303
+17,TO,Tocantins,Norte,Palmas,1721000
+21,MA,Maranhão,Nordeste,São Luís,2111300
+22,PI,Piauí,Nordeste,Teresina,2211001
+23,CE,Ceará,Nordeste,Fortaleza,2304400
+24,RN,Rio Grande do Norte,Nordeste,Natal,2408102
+25,PB,Paraíba,Nordeste,João Pessoa,2507507
+26,PE,Pernambuco,Nordeste,Recife,2611606
+27,AL,Alagoas,Nordeste,Maceió,2704302
+28,SE,Sergipe,Nordeste,Aracaju,2800308
+29,BA,Bahia,Nordeste,Salvador,2927408
+31,MG,Minas Gerais,Sudeste,Belo Horizonte,3106200
+32,ES,Espírito Santo,Sudeste,Vitória,3205309
+33,RJ,Rio de Janeiro,Sudeste,Rio de Janeiro,3304557
+35,SP,São Paulo,Sudeste,São Paulo,3550308
+41,PR,Paraná,Sul,Curitiba,4106902
+42,SC,Santa Catarina,Sul,Florianópolis,4205407
+43,RS,Rio Grande do Sul,Sul,Porto Alegre,4314902
+50,MS,Mato Grosso do Sul,Centro-Oeste,Campo Grande,5002704
+51,MT,Mato Grosso,Centro-Oeste,Cuiabá,5103403
+52,GO,Goiás,Centro-Oeste,Goiânia,5208707
+53,DF,Distrito Federal,Centro-Oeste,Brasília,5300108

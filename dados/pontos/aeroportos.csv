@@ -1,0 +1,497 @@
+nome,lat,lon,cod,uf,municipio,icao,ciad,situacao,altitude_m,operacao_noturna,passageiros,passageiros_regulares,passageiros_internacionais,decolagens,ano_passageiros,voos_regulares
+Guarulhos - Governador André Franco Montoro,-23.435556,-46.473056,3518800,SP,Guarulhos,SBGR,SP0002,Cadastrado,750.0,VFR / IFR - CAT III A,47077919,46442130,16652096,143699,2025,True
+São Paulo/Congonhas - Deputado Freitas Nobre,-23.626111,-46.656389,3550308,SP,São Paulo,SBSP,SP0001,Cadastrado,802.0,VFR / IFR - CAT I,24586674,24450907,0,93392,2025,True
+RIO DE JANEIRO/GALEÃO - ANTÔNIO CARLOS JOBIM,-22.81,-43.250556,3304557,RJ,Rio de Janeiro,SBGL,RJ0001,Cadastrado,9.0,,17835646,17149360,5687160,58870,2025,True
+Presidente Juscelino Kubitschek,-15.871111,-47.918611,5300108,DF,Brasília,SBBR,DF0001,Cadastrado,1066.0,VFR / IFR - CAT I,16677052,16451860,885958,58355,2025,True
+Viracopos,-23.006944,-47.134444,3509502,SP,Campinas,SBKP,SP0003,Cadastrado,661.0,,13216019,12769453,1125302,61251,2025,True
+Tancredo Neves,-19.624444,-43.971944,3117876,MG,Confins,SBCF,MG0001,Cadastrado,829.0,,13143542,12668775,536420,58009,2025,True
+AEROPORTO INTERNACIONAL RECIFE/GUARARAPES - GILBERTO FREYRE,-8.126389,-34.922778,2611606,PE,Recife,SBRF,PE0001,Cadastrado,10.0,,9936274,9612386,491439,37355,2025,True
+DEPUTADO LUÍS EDUARDO MAGALHÃES,-12.908611,-38.3225,2927408,BA,Salvador,SBSV,BA0001,Cadastrado,20.0,,7958408,7634571,550478,28758,2025,True
+Salgado Filho,-29.994722,-51.171111,4314902,RS,Porto Alegre,SBPA,RS0001,Cadastrado,9.0,,7455478,7331782,348835,27959,2025,True
+Santos Dumont,-22.91,-43.1625,3304557,RJ,Rio de Janeiro,SBRJ,RJ0002,Cadastrado,3.0,VFR / IFR Não Precisão,6187345,6160914,0,28580,2025,True
+Afonso Pena,-25.531667,-49.176111,4106902,PR,Curitiba,SBCT,PR0001,Cadastrado,911.0,VFR / IFR - CAT II,6172414,6092009,184460,26560,2025,True
+Pinto Martins,-3.775833,-38.532222,2304400,CE,Fortaleza,SBFZ,CE0001,Cadastrado,25.0,,6112366,5939825,466385,19935,2025,True
+Hercílio Luz,-27.670278,-48.5525,4205407,SC,Florianópolis,SBFL,SC0001,Cadastrado,5.0,VFR / IFR - CAT I,5104030,4956052,1249383,18211,2025,True
+INTERNACIONAL DE BELÉM/VAL DE CANS/JÚLIO CEZAR RIBEIRO,-1.384722,-48.478889,1501402,PA,Belém,SBBE,PA0001,Cadastrado,17.0,,3954276,3830435,177014,15960,2025,True
+Santa Genoveva,-16.6325,-49.221111,5208707,GO,Goiânia,SBGO,GO0001,Cadastrado,747.0,,3892373,3812768,16,13841,2025,True
+Eurico de Aguiar Salles,-20.258056,-40.286389,3205309,ES,Vitória,SBVT,ES0001,Cadastrado,3.0,VFR / IFR - CAT I,3494673,3438065,0,13254,2025,True
+Eduardo Gomes,-3.041111,-60.050556,1302603,AM,Manaus,SBEG,AM0001,Cadastrado,80.0,,3227254,3108963,188599,15619,2025,True
+Zumbi dos Palmares,-9.510833,-35.791667,2704302,AL,Maceió,SBMO,AL0001,Cadastrado,118.0,,2953532,2720099,43158,10143,2025,True
+Porto Seguro,-16.438056,-39.077778,2925303,BA,Porto Seguro,SBPS,BA0002,Cadastrado,51.0,VFR / IFR Não Precisão,2567566,2293823,57069,8909,2025,True
+Marechal Rondon,-15.65,-56.1175,5103403,MT,Cuiabá,SBCY,MT0001,Cadastrado,188.0,,2519615,2465356,190,10335,2025,True
+Aeroporto Internacional do Rio Grande do Norte / São Gonçalo do Amarante - Governador Aluizio Alves,-5.768889,-35.366389,2412005,RN,São Gonçalo do Amarante,SBSG,RN0001,Cadastrado,83.0,,2391231,2293889,103331,8291,2025,True
+Ministro Victor Konder,-26.878611,-48.650833,4211306,SC,Navegantes,SBNF,SC0002,Cadastrado,5.0,,2305131,2222822,0,8284,2025,True
+Cataratas,-25.600278,-54.485,4108304,PR,Foz do Iguaçu,SBFI,PR0002,Cadastrado,240.0,,2287301,2188878,43299,7404,2025,True
+Presidente Castro Pinto,-7.148333,-34.950278,2501807,PB,Bayeux,SBJP,PB0001,Cadastrado,66.0,,1881329,1789715,2754,6408,2025,True
+MARECHAL CUNHA MACHADO,-2.586944,-44.236111,2111300,MA,São Luís,SBSL,MA0001,Cadastrado,54.0,,1849118,1780345,0,6323,2025,True
+Aeroporto Internacional de Campo Grande - Ueze Elias Zahran,-20.469444,-54.670278,5002704,MS,Campo Grande,SBCG,MS0001,Cadastrado,559.0,,1579164,1569534,51,5378,2025,True
+Santa Maria,-10.985278,-37.073333,2800308,SE,Aracaju,SBAR,SE0001,Cadastrado,7.0,,1364072,1324343,0,5082,2025,True
+SENADOR PETRÔNIO PORTELLA,-5.060556,-42.824444,2211001,PI,Teresina,SBTE,PI0001,Cadastrado,67.0,,1097551,1083055,0,4042,2025,True
+Ten Cel Aviador César Bombonato,-18.883611,-48.225278,3170206,MG,Uberlândia,SBUL,MG0002,Cadastrado,943.0,VFR / IFR - CAT I,1064175,1038967,0,5175,2025,True
+Professor Eribelto Manoel Reino,-20.817222,-49.406944,3549805,SP,São José do Rio Preto,SBSR,SP0006,Cadastrado,544.0,VFR / IFR Não Precisão,919078,891392,66,4697,2025,True
+Sílvio Name Júnior,-23.476389,-52.017778,4115200,PR,Maringá,SBMG,PR0004,Cadastrado,549.0,,874633,870489,0,3877,2025,True
+Brigadeiro Lysias Rodrigues,-10.29,-48.357778,1721000,TO,Palmas,SBPJ,TO0001,Cadastrado,236.0,VFR / IFR Não Precisão,742587,720310,0,2742,2025,True
+Leite Lopes,-21.136389,-47.776667,3543402,SP,Ribeirão Preto,SBRP,SP0004,Cadastrado,550.0,,721520,687085,0,4311,2025,True
+Governador José Richa,-23.330278,-51.136667,4113700,PR,Londrina,SBLO,PR0003,Cadastrado,569.0,,708302,698084,0,3195,2025,True
+Serafin Enoss Bertaso,-27.133889,-52.658889,4204202,SC,Chapecó,SBCH,SC0003,Cadastrado,654.0,VFR / IFR Não Precisão,642876,635480,0,2661,2025,True
+Bahia - Jorge Amado,-14.815,-39.033333,2913606,BA,Ilhéus,SBIL,BA0004,Cadastrado,4.0,VFR,626501,584272,0,2409,2025,True
+Governador Jorge Teixeira de Oliveira,-8.713611,-63.902778,1100205,RO,Porto Velho,SBPV,RO0001,Cadastrado,90.0,,607359,598325,0,2270,2025,True
+Alberto Alcolumbre,0.050556,-51.072222,1600303,AP,Macapá,SBMQ,AP0001,Cadastrado,17.0,VFR / IFR Não Precisão,574554,563756,0,2063,2025,True
+Lauro Carneiro de Loyola,-26.223056,-48.797778,4209102,SC,Joinville,SBJV,SC0004,Cadastrado,5.0,VFR / IFR - CAT I,535943,534797,0,2513,2025,True
+Maestro Wilson Fonseca,-2.424722,-54.785833,1506807,PA,Santarém,SBSN,PA0002,Cadastrado,60.0,VFR / IFR Não Precisão,504398,486955,0,2153,2025,True
+Orlando Bezerra de Menezes,-7.219167,-39.269444,2307304,CE,Juazeiro do Norte,SBJU,CE0002,Cadastrado,409.0,,496942,456045,0,1785,2025,True
+Aeroporto Internacional Senador Nilo Coelho,-9.3675,-40.563611,2611101,PE,Petrolina,SBPL,PE0002,Cadastrado,384.0,,483036,470263,0,1891,2025,True
+Aeroporto Regional do Oeste - Cel. Adalberto Mendes da Silva - Cascavel - Paraná,-25.002222,-53.501944,4104808,PR,Cascavel,SBCA,PR0005,Cadastrado,759.0,,464420,456121,0,2096,2025,True
+Presidente João Batista Figueiredo,-11.885,-55.586111,5107909,MT,Sinop,SBSI,MT0002,Cadastrado,374.0,,462123,459438,0,1761,2025,True
+Plácido de Castro,-9.868333,-67.898056,1200401,AC,Rio Branco,SBRB,AC0001,Cadastrado,193.0,VFR / IFR - CAT I,402928,400143,0,1776,2025,True
+Glauber de Andrade Rocha,-14.907778,-40.914722,2933307,BA,Vitória da Conquista,SBVC,BA0005,Cadastrado,894.0,VFR / IFR Não Precisão,401022,381294,0,1674,2025,True
+Atlas Brasil Cantanhede,2.841389,-60.692222,1400100,RR,Boa Vista,SBBV,RR0001,Cadastrado,81.0,VFR / IFR Não Precisão,384487,377269,44,1290,2025,True
+João Corrêa da Rocha,-5.368056,-49.138056,1504208,PA,Marabá,SBMA,PA0004,Cadastrado,109.0,,379845,376739,0,1644,2025,True
+Fernando de Noronha,-3.854722,-32.428333,2605459,PE,Fernando de Noronha,SBFN,PE0003,Cadastrado,58.0,,377040,366878,0,1978,2025,True
+Mário Ribeiro,-16.706111,-43.821944,3143302,MG,Montes Claros,SBMK,MG0004,Cadastrado,668.0,,354349,348723,0,2282,2025,True
+Prefeito Renato Moreira,-5.530556,-47.458333,2105302,MA,Imperatriz,SBIZ,MA0002,Cadastrado,132.0,VFR / IFR Não Precisão,333160,330529,0,1498,2025,True
+Hugo Cantergiani,-29.198056,-51.186667,4305108,RS,Caxias do Sul,SBCX,RS0007,Cadastrado,754.0,VFR / IFR Não Precisão,278754,277085,0,1046,2025,True
+Comandante Ariston Pessoa,-2.906667,-40.358056,2304251,CE,Cruz,SBJE,CE0003,Cadastrado,27.0,VFR / IFR Não Precisão,263030,245239,0,934,2025,True
+Presidente Prudente,-22.175,-51.424444,3541406,SP,Presidente Prudente,SBDN,SP0005,Cadastrado,452.0,VFR / IFR Não Precisão,259062,248242,0,1307,2025,True
+Carajás,-6.117778,-50.003333,1505536,PA,Parauapebas,SBCJ,PA0006,Cadastrado,629.0,VFR / IFR - CAT I,248479,195940,0,1352,2025,True
+Lauro Kurtz,-28.244167,-52.328333,4314100,RS,Passo Fundo,SBPF,RS0006,Cadastrado,725.0,,244495,241698,0,882,2025,True
+Presidente João Suassuna,-7.269167,-35.895,2504009,PB,Campina Grande,SBKG,PB0003,Cadastrado,502.0,,148562,147877,0,998,2025,True
+Usiminas,-19.470556,-42.488056,3158953,MG,Santana do Paraíso,SBIP,MG0007,Cadastrado,240.0,,139810,139144,0,1352,2025,True
+Presidente Itamar Franco,-21.513056,-43.173056,3127388,MG,Goianá,SBZM,MG0006,Cadastrado,412.0,IFR Não Precisão,134692,134465,0,781,2025,True
+Regional Sul,-28.675278,-49.059444,4208807,SC,Jaguaruna,SBJA,SC0005,Cadastrado,35.0,VFR / IFR Não Precisão,108091,107105,0,511,2025,True
+Araçatuba,-21.144167,-50.426389,3502804,SP,Araçatuba,SBAU,SP0009,Cadastrado,415.0,,95595,94088,0,584,2025,True
+Aeroporto Internacional de Pelotas/RS - João Simões Lopes Neto,-31.716111,-52.331111,4314407,RS,Pelotas,SBPK,RS0005,Cadastrado,18.0,,93584,93321,0,544,2025,True
+Altamira,-3.250833,-52.252222,1500602,PA,Altamira,SBHT,PA0003,Cadastrado,112.0,VFR / IFR Não Precisão,87758,86785,0,371,2025,True
+Coronel Altino Machado,-18.896111,-41.983333,3127701,MG,Governador Valadares,SBGV,MG0032,Cadastrado,171.0,VFR / IFR Não Precisão,87065,86668,0,831,2025,True
+Mario de Almeida Franco,-19.764722,-47.966111,3170107,MG,Uberaba,SBUR,MG0009,Cadastrado,809.0,VFR / IFR Não Precisão,76779,73126,0,640,2025,True
+Bauru/Arealva,-22.157778,-49.068333,3506003,SP,Bauru,SBAE,SP0010,Cadastrado,598.0,,71195,62643,0,550,2025,True
+Tabatinga,-4.250556,-69.937778,1304062,AM,Tabatinga,SBTT,AM0005,Cadastrado,80.0,,70783,68866,0,496,2025,True
+Aeródromo Público de Bonito,-21.247222,-56.4525,5002209,MS,Bonito,SBDB,MS0004,Cadastrado,334.0,,69013,68570,0,320,2025,True
+Dom Ricardo Weberberger,-12.079167,-45.009444,2903201,BA,Barreiras,SNBR,BA0011,Cadastrado,747.0,,63362,63168,0,636,2025,True
+Santo Ângelo,-28.281667,-54.168333,4317509,RS,Santo Ângelo,SBNM,RS0008,Cadastrado,322.0,VFR / IFR Não Precisão,59871,59871,0,373,2025,True
+Regional de Sorriso Adolino Bedin,-12.472778,-55.668889,5107925,MT,Sorriso,SBSO,MT0005,Cadastrado,386.0,VFR / IFR Não Precisão,53081,52700,0,325,2025,True
+Nelson Rodrigues Guimarães,-17.725,-48.606389,5204508,GO,Caldas Novas,SBCN,GO0003,Cadastrado,703.0,VFR / IFR Não Precisão,51689,49954,0,214,2025,True
+Rondonópolis - Maestro Marinho Franco,-16.588056,-54.721667,5107602,MT,Rondonópolis,SBRD,MT0004,Cadastrado,447.0,,50122,50122,0,283,2025,True
+Cruzeiro do Sul,-7.599444,-72.769444,1200203,AC,Cruzeiro do Sul,SBCZ,AC0002,Cadastrado,194.0,VFR / IFR Não Precisão,44636,44636,0,205,2025,True
+PILOTO OSVALDO MARQUES DIAS,-9.866389,-56.105,5100250,MT,Alta Floresta,SBAT,MT0003,Cadastrado,289.0,,44171,44171,0,228,2025,True
+Aeródromo de Guanambi,-14.208056,-42.746111,2911709,BA,Guanambi,SNGI,BA0009,Cadastrado,553.0,VFR,39557,39480,0,457,2025,True
+Professor Urbano Ernesto Stumpf,-23.228889,-45.871111,3549904,SP,São José dos Campos,SBSJ,SP0008,Cadastrado,647.0,VFR / IFR - CAT I,38069,38068,0,442,2025,True
+AEROPORTO REGIONAL DE PATO BRANCO - PROFESSOR JUVENAL LOUREIRO CARDOSO,-26.217222,-52.694444,4118501,PR,Pato Branco,SBPO,PR0018,Cadastrado,823.0,,34481,34316,0,345,2025,True
+UNA/COMANDATUBA,-15.353333,-38.997222,2932507,BA,Una,SBTC,BA0067,Cadastrado,7.0,VFR / IFR Não Precisão,34240,24509,0,160,2025,True
+Santa Maria,-29.710833,-53.692222,4316907,RS,Santa Maria,SBSM,RS0003,Cadastrado,88.0,,29947,29725,0,288,2025,True
+Parintins,-2.673611,-56.7775,1303403,AM,Parintins,SWPI,AM0006,Cadastrado,25.0,VFR,29414,27251,0,304,2025,True
+Ponta Porã,-22.549722,-55.703056,5006606,MS,Ponta Porã,SBPP,MS0005,Cadastrado,657.0,,28816,28816,0,165,2025,True
+Frank Miloye Milenkovich,-22.196944,-49.926389,3529005,SP,Marília,SBML,SP0014,Cadastrado,650.0,,28801,28801,0,346,2025,True
+Prefeito Orlando Marinho,-3.380278,-64.725278,1304203,AM,Tefé,SBTF,AM0004,Cadastrado,57.0,VFR / IFR Não Precisão,27165,26596,0,284,2025,True
+Corumbá,-19.011944,-57.671389,5003207,MS,Corumbá,SBCR,MS0009,Cadastrado,141.0,VFR / IFR Não Precisão,26550,26550,0,140,2025,True
+São Gabriel da Cachoeira,-0.148056,-66.985833,1303809,AM,São Gabriel da Cachoeira,SBUA,AM0003,Cadastrado,76.0,Sem Operação,24093,23456,0,145,2025,True
+Cacoal,-11.495556,-61.450833,1100049,RO,Cacoal,SSKW,RO0004,Cadastrado,249.0,,23643,23173,0,104,2025,True
+Vilhena,-12.694444,-60.098333,1100304,RO,Vilhena,SBVH,RO0003,Cadastrado,615.0,VFR / IFR Não Precisão,23499,23227,0,105,2025,True
+Ji-Paraná,-10.870556,-61.846667,1100122,RO,Ji-Paraná,SBJI,RO0005,Cadastrado,182.0,,23420,23394,0,168,2025,True
+Rubem Berta,-29.783333,-57.036944,4322400,RS,Uruguaiana,SBUG,RS0012,Cadastrado,78.0,VFR / IFR Não Precisão,19002,19002,0,171,2025,True
+Jacarepaguá - Roberto Marinho,-22.9875,-43.37,3304557,RJ,Rio de Janeiro,SBJR,RJ0005,Cadastrado,3.0,,18985,18905,0,1788,2025,True
+Itaituba,-4.242222,-56.000833,1501006,PA,Aveiro,SBIH,PA0010,Cadastrado,33.0,VFR / IFR Não Precisão,16714,16714,0,162,2025,True
+Cabo Frio,-22.920833,-42.071389,3300704,RJ,Cabo Frio,SBCB,RJ0003,Cadastrado,7.0,VFR / IFR Não Precisão,15725,803,3043,93,2025,True
+Patos de Minas,-18.672222,-46.491389,3148004,MG,Patos de Minas,SNPD,MG0010,Cadastrado,851.0,,12608,12592,0,214,2025,True
+Dourados,-22.200556,-54.925556,5003702,MS,Dourados,SBDO,MS0008,Cadastrado,458.0,VFR / IFR Não Precisão,11766,11766,0,49,2025,True
+Prefeito Doutor João Silva Filho,-2.893333,-41.730278,2207702,PI,Parnaíba,SBPB,PI0002,Cadastrado,7.0,VFR,10662,10662,0,87,2025,True
+Romeu Zema,-19.563056,-46.960556,3104007,MG,Araxá,SBAX,MG0008,Cadastrado,998.0,VFR / IFR Não Precisão,9850,9803,0,205,2025,True
+HORÁCIO DE MATTOS,-12.482222,-41.276944,2919306,BA,Lençóis,SBLE,BA0006,Cadastrado,506.0,VFR,9652,9543,0,103,2025,True
+Trombetas,-1.489722,-56.396944,1505304,PA,Oriximiná,SBTB,PA0012,Cadastrado,51.0,,9378,9237,0,143,2025,True
+Aeroporto Regional de Guarapuava - Tancredo Thomás de Faria,-25.388333,-51.523611,4109401,PR,Guarapuava,SSGG,PR0009,Cadastrado,1065.0,VFR / IFR Não Precisão,9342,9326,0,118,2025,True
+Aeroporto Ricardo Sell Wagner - Regional da Serra Catarinense,-27.634167,-50.358333,4204558,SC,Correia Pinto,SNCP,SC0181,Cadastrado,880.0,,6133,6133,0,67,2025,True
+General Leite de Castro,-17.834722,-50.956111,5218805,GO,Rio Verde,SWLC,GO0009,Cadastrado,751.0,VFR,5673,5593,0,65,2025,True
+Araguaína,-7.228333,-48.240833,1702109,TO,Araguaína,SWGN,TO0002,Cadastrado,236.0,VFR,4532,4532,0,30,2025,True
+Eirunepé,-6.639444,-69.879722,1301407,AM,Eirunepé,SWEI,AM0009,Cadastrado,127.0,Sem Operação,4304,4102,0,66,2025,True
+Bartolomeu Lisandro,-21.701111,-41.307778,3301009,RJ,Campos dos Goytacazes,SBCP,RJ0006,Cadastrado,18.0,VFR / IFR Não Precisão,3620,3616,0,62,2025,True
+Brigadeiro Antônio Cabral,-20.181944,-44.87,3122306,MG,Divinópolis,SNDV,MG0015,Cadastrado,795.0,,3302,3297,0,551,2025,True
+Três Lagoas,-20.751389,-51.680278,5008305,MS,Três Lagoas,SBTG,MS0006,Cadastrado,323.0,VFR,3147,3147,0,37,2025,True
+Dix-Sept Rosado,-5.195833,-37.361667,2408003,RN,Mossoró,SBMS,RN0002,Cadastrado,23.0,,3096,3092,0,35,2025,True
+Serra da Capivara/São Raimundo Nonato,-9.083333,-42.644722,2210607,PI,São Raimundo Nonato,SWKQ,PI0004,Cadastrado,415.0,VFR,2255,2255,0,29,2025,True
+Manicoré,-5.811111,-61.278333,1302702,AM,Manicoré,SBMY,AM0015,Cadastrado,53.0,,2112,2015,0,197,2025,True
+Bartolomeu de Gusmão,-21.811944,-48.133056,3503208,SP,Araraquara,SBAQ,SP0012,Cadastrado,711.0,,2044,2044,0,475,2025,True
+Comandante Antônio Amilton Beraldo,-25.184444,-50.143889,4119905,PR,Ponta Grossa,SBPG,PR0012,Cadastrado,788.0,VFR / IFR Não Precisão,1753,1753,0,31,2025,True
+Juscelino Kubitscheck,-17.890833,-41.515,3168606,MG,Teófilo Otoni,SNTO,MG0048,Cadastrado,480.0,VFR,1729,1729,0,179,2025,True
+Salinas,-16.208333,-42.321944,3157005,MG,Salinas,SNSS,MG0029,Cadastrado,763.0,Sem Operação,1698,1645,0,141,2025,True
+Apuí,-7.172222,-59.838889,1300144,AM,Apuí,SWYN,AM0023,Cadastrado,60.0,,1695,1558,0,97,2025,True
+Coari,-4.134167,-63.1325,1301209,AM,Coari,SWKO,AM0010,Cadastrado,40.0,Sem Operação,1526,1307,0,274,2025,True
+Municipal de Linhares,-19.355278,-40.071389,3203205,ES,Linhares,SNLN,ES0002,Cadastrado,42.0,,1327,1327,0,146,2025,True
+Barra do Garças,-15.861389,-52.388889,5101803,MT,Barra do Garças,SBBW,MT0008,Cadastrado,350.0,VFR / IFR Não Precisão,1272,1271,0,217,2025,True
+BRIGADEIRO FIRMINO AYRES,-7.037778,-37.2575,2510808,PB,Patos,SNTS,PB0005,Cadastrado,265.0,,1151,1151,0,145,2025,True
+Orlando de Carvalho,-23.799167,-53.313889,4128104,PR,Umuarama,SSUM,PR0019,Cadastrado,473.0,,1015,1015,0,125,2025,True
+Monte Dourado,-0.889722,-52.602222,1500503,PA,Almeirim,SBMD,PA0009,Cadastrado,206.0,,928,915,0,97,2025,True
+Breves,-1.636389,-50.443333,1501808,PA,Breves,SNVS,PA0015,Interditado,30.0,,923,854,0,186,2025,True
+Major Brigadeiro Trompowsky,-21.588889,-45.473333,3170701,MG,Varginha,SBVG,MG0019,Cadastrado,922.0,IFR Não Precisão,910,910,0,142,2025,True
+Porto de Moz,-1.741389,-52.235833,1505908,PA,Porto de Moz,SNMZ,PA0020,Cadastrado,16.0,,823,808,0,90,2025,True
+Ourilândia do Norte,-6.763056,-51.05,1505437,PA,Ourilândia do Norte,SDOW,PA0021,Cadastrado,229.0,VFR,777,777,0,131,2025,True
+Maués,-3.371944,-57.724722,1302900,AM,Maués,SWMW,AM0020,Cadastrado,21.0,Sem Operação,695,688,0,95,2025,True
+Lábrea,-7.278889,-64.769444,1302405,AM,Lábrea,SWLB,AM0024,Cadastrado,74.0,,675,666,0,91,2025,True
+Santa Magalhães,-8.061389,-38.328611,2613909,PE,Serra Talhada,SNHS,PE0005,Cadastrado,470.0,,643,643,0,102,2025,True
+Araripina,-7.586389,-40.535278,2601102,PE,Araripina,SNAB,PE0009,Cadastrado,740.0,,633,633,0,95,2025,True
+Guaíra,-24.079722,-54.188056,4108809,PR,Guaíra,SSGY,PR0023,Cadastrado,271.0,,550,550,0,126,2025,True
+Chafei Amsei,-20.585556,-48.595833,3505500,SP,Barretos,SNBA,SP0013,Cadastrado,580.0,VFR,493,490,0,96,2025,True
+Tucuruí,-3.776944,-49.719722,1508100,PA,Tucuruí,SBTU,PA0007,Cadastrado,253.0,,475,474,0,100,2025,True
+Nagib Demachki,-3.019722,-47.316389,1505502,PA,Paragominas,SNEB,PA0018,Cadastrado,135.0,Sem Operação,450,450,0,101,2025,True
+Regional de Santo Amaro de Minas,-20.259722,-42.183889,3139409,MG,Manhuaçu,SNJM,MG0050,Cadastrado,829.0,,439,439,0,90,2025,True
+Tenente Lund Pressoto,-20.590278,-47.3825,3516200,SP,Franca,SIMK,SP0011,Cadastrado,1003.0,VFR,427,427,0,93,2025,True
+Pedro Rabelo de Souza,-17.242778,-46.883056,3147006,MG,Paracatu,SNZR,MG0026,Cadastrado,730.0,Sem Operação,426,426,0,90,2025,True
+Pedro Vieira Moreira,-6.882778,-38.615833,2503704,PB,Cajazeiras,SJZA,PB0004,Cadastrado,335.0,,410,385,0,96,2025,True
+Barcelos,-0.981111,-62.919444,1300409,AM,Barcelos,SWBC,AM0017,Cadastrado,34.0,Sem Operação,366,366,0,59,2025,True
+Borba,-4.406111,-59.6025,1300805,AM,Borba,SWBR,AM0018,Cadastrado,30.0,Sem Operação,344,344,0,82,2025,True
+Telêmaco Borba,-24.316389,-50.652222,4127106,PR,Telêmaco Borba,SSVL,PR0007,Cadastrado,796.0,Sem Operação,340,172,0,95,2025,True
+Caruaru,-8.284444,-36.010833,2604106,PE,Caruaru,SNRU,PE0004,Cadastrado,576.0,Sem Operação,266,264,0,69,2025,True
+Garanhuns,-8.834444,-36.471389,2606002,PE,Garanhuns,SNGN,PE0006,Cadastrado,759.0,,196,196,0,70,2025,True
+José Cleto,-26.231944,-51.0675,4128203,PR,União da Vitória,SSUV,PR0034,Cadastrado,750.0,Sem Operação,135,135,0,60,2025,True
+Salinópolis,-0.696389,-47.336667,1506203,PA,Salinópolis,SNSM,PA0250,Cadastrado,36.0,Sem Operação,133,133,0,79,2025,True
+SANTA ISABEL DO RIO NEGRO,-0.378611,-64.993056,1303601,AM,Santa Isabel do Rio Negro,SWTP,AM0022,Cadastrado,43.0,Sem Operação,78,78,0,52,2025,True
+Barreirinhas,-2.756667,-42.803333,2101707,MA,Barreirinhas,SSRS,MA0008,Cadastrado,12.0,,78,78,0,23,2025,True
+Crateús,-5.211111,-40.704167,2304103,CE,Crateús,SNWS,CE0005,Cadastrado,318.0,,27,27,0,11,2025,True
+Iguatu,-6.346667,-39.294444,2305506,CE,Iguatu,SNIG,CE0007,Cadastrado,215.0,Sem Operação,13,13,0,6,2025,True
+Walfrido Salmito de Almeida,-4.042778,-40.893889,2312304,CE,São Benedito,SWBE,CE0006,Cadastrado,884.0,,10,10,0,6,2025,True
+Dr. Luciano de Arruda Coelho,-3.614722,-40.232222,2312908,CE,Sobral,SN6L,CE0164,Cadastrado,91.0,VFR,6,6,0,6,2025,True
+Valença,-13.296389,-38.9925,2932903,BA,Valença,SNVB,BA0008,Interditado,5.0,VFR,,,,,2025,False
+Teixeira de Freitas,-17.524444,-39.668333,2931350,BA,Teixeira de Freitas,SNTF,BA0016,Cadastrado,105.0,VFR,,,,,2025,False
+Irecê,-11.34,-41.846944,2914604,BA,Irecê,SNIC,BA0019,Cadastrado,784.0,VFR,,,,,2025,False
+Aeroporto Regional de Canoa Quebrada Dragão do Mar,-4.568611,-37.804722,2301109,CE,Aracati,SBAC,CE0004,Cadastrado,36.0,,,,,,2025,False
+Guarapari,-20.646389,-40.491667,3202405,ES,Guarapari,SNGA,ES0007,Interditado,9.0,,,,,,2025,False
+Canela,-29.370556,-50.832222,4304408,RS,Canela,SSCN,RS0019,Interditado,827.0,VFR,,,,,2025,False
+ITURAMA,-19.717222,-50.220278,3134400,MG,Iturama,SNYU,MG0014,Cadastrado,475.0,VFR,,,,,2025,False
+Embaixador Walther Moreira Salles,-21.8425,-46.569444,3151800,MG,Poços de Caldas,SBPC,MG0018,Cadastrado,1261.0,Sem Operação,,,,,2025,False
+Municipal José Figueiredo,-20.731944,-46.661944,3147907,MG,Passos,SNOS,MG0024,Cadastrado,822.0,VFR,,,,,2025,False
+Chapadão do Sul,-18.839167,-52.488056,5002951,MS,Chapadão do Sul,SSCD,MS0007,Cadastrado,818.0,VFR,,,,,2025,False
+Arcoverde,-8.407778,-37.088333,2601201,PE,Arcoverde,SNAE,PE0007,Cadastrado,648.0,,,,,,2025,False
+Luiz Dalcanale Filho,-24.685278,-53.696389,4127700,PR,Toledo,SBTD,PR0008,Cadastrado,562.0,,,,,,2025,False
+Juara Sul,-11.296667,-57.548889,5105101,MT,Juara,SIZX,MT0018,Cadastrado,302.0,,,,,,2025,False
+Araguari,-18.668056,-48.190278,3103504,MG,Araguari,SNAG,MG0020,Interditado,947.0,Sem Operação,,,,,2025,False
+Paulo Abdala,-26.058889,-53.063333,4108403,PR,Francisco Beltrão,SSFB,PR0021,Cadastrado,644.0,,,,,,2025,False
+Arapongas,-23.352778,-51.491667,4122404,PR,Rolândia,SSOG,PR0027,Interditado,794.0,VFR,,,,,2025,False
+Pimenta Bueno,-11.641389,-61.178889,1100189,RO,Pimenta Bueno,SWPM,RO0009,Cadastrado,208.0,VFR,,,,,2025,False
+Comandante Gustavo Kraemer,-31.390833,-54.109722,4301602,RS,Bagé,SBBG,RS0010,Cadastrado,182.0,VFR / IFR Não Precisão,,,,,2025,False
+Torres,-29.415,-49.81,4321501,RS,Torres,SSTE,RS0011,Cadastrado,9.0,VFR,,,,,2025,False
+Jacareacanga,-6.235278,-57.775833,1503754,PA,Jacareacanga,SBEK,PA0011,Cadastrado,101.0,,,,,,2025,False
+Lages,-27.782222,-50.281667,4209300,SC,Lages,SBLJ,SC0007,Cadastrado,934.0,VFR / IFR Não Precisão,,,,,2025,False
+Forquilhinha-Criciúma,-28.725833,-49.424722,4205456,SC,Forquilhinha,SSIM,SC0009,Cadastrado,28.0,VFR / IFR Não Precisão,,,,,2025,False
+Olavo Cecco Rigon,-27.180556,-52.051111,4204301,SC,Concórdia,SSCK,SC0010,Cadastrado,751.0,VFR,,,,,2025,False
+Campo de Marte,-23.509167,-46.6375,3550308,SP,São Paulo,SBMT,SP0007,Cadastrado,723.0,VFR,,,,,2025,False
+Lins,-21.662778,-49.731111,3527108,SP,Lins,SWXQ,SP0015,Cadastrado,480.0,VFR,,,,,2025,False
+Marcelo Pires Halzhausen,-22.638611,-50.455833,3504008,SP,Assis,SNAX,SP0016,Cadastrado,564.0,,,,,,2025,False
+Bauru,-22.345,-49.053889,3506003,SP,Bauru,SBBU,SP0017,Cadastrado,617.0,VFR / IFR Não Precisão,,,,,2025,False
+Dracena,-21.460556,-51.606944,3514403,SP,Dracena,SDDR,SP0021,Cadastrado,372.0,,,,,,2025,False
+Jornalista Benedito Pimentel,-22.973611,-49.911389,3534708,SP,Ourinhos,SDOU,SP0023,Cadastrado,462.0,VFR,,,,,2025,False
+Penápolis,-21.41,-50.033611,3537305,SP,Penápolis,SDPN,SP0024,Cadastrado,412.0,VFR,,,,,2025,False
+Mário Pereira Lopes,-21.876389,-47.903333,3548906,SP,São Carlos,SDSC,SP0029,Cadastrado,807.0,,,,,,2025,False
+Comandante Rolim Adolfo Amaro,-23.181667,-46.943611,3525904,SP,Jundiaí,SBJD,SP0031,Cadastrado,753.0,VFR / IFR Não Precisão,,,,,2025,False
+Municipal José Boso,-22.578333,-48.774444,3526803,SP,Lençóis Paulista,SDLP,SP0034,Cadastrado,621.0,,,,,,2025,False
+Estadual Arthur Siqueira,-22.978889,-46.537222,3507605,SP,Bragança Paulista,SBBP,SP0036,Cadastrado,893.0,VFR,,,,,2025,False
+Estadual de Campos Dos Amarais - Prefeito Francisco Amaral,-22.859167,-47.108056,3509502,SP,Campinas,SDAM,SP0037,Cadastrado,612.0,VFR,,,,,2025,False
+Pedro Morganti,-22.711944,-47.618056,3538709,SP,Piracicaba,SDPW,SP0041,Cadastrado,584.0,,,,,,2025,False
+Nelson Garófalo,-22.696111,-48.576111,3550100,SP,São Manuel,SDNO,SP0061,Cadastrado,734.0,,,,,,2025,False
+Frutal,-20.004722,-48.958889,3127107,MG,Frutal,SNFU,MG0063,Cadastrado,549.0,Sem Operação,,,,,2025,False
+Maricá,-22.918056,-42.828889,3302700,RJ,Maricá,SBMI,RJ0009,Cadastrado,0.0,,,,,,2025,False
+Catalão,-18.216944,-47.899444,5205109,GO,Catalão,SWKT,GO0015,Cadastrado,802.0,VFR,,,,,2025,False
+Gurupi,-11.739444,-49.133333,1709500,TO,Gurupi,SWGI,TO0004,Cadastrado,350.0,VFR,,,,,2025,False
+São Sebastião do Paraíso,-20.948333,-46.983056,3164704,MG,São Sebastião do Paraíso,SNPY,MG0013,Cadastrado,950.0,,,,,,2025,False
+Lauro Antônio da Costa,-27.287222,-50.603889,4204806,SC,Curitibanos,SSKU,SC0016,Cadastrado,978.0,VFR,,,,,2025,False
+Camocim,-2.895833,-40.858889,2302602,CE,Camocim,SNWC,CE0011,Cadastrado,14.0,VFR,,,,,2025,False
+Capitão João Busse,-23.612222,-51.385,4101408,PR,Apucarana,SSAP,PR0014,Cadastrado,800.0,,,,,,2025,False
+Hélio Wasum,-26.781111,-53.503333,4204905,SC,Descanso,SSOE,SC0015,Cadastrado,665.0,VFR,,,,,2025,False
+Campo Mourão,-24.0025,-52.356944,4104303,PR,Campo Mourão,SSKM,PR0017,Cadastrado,574.0,VFR,,,,,2025,False
+Guajará-Mirim,-10.788333,-65.281667,1100106,RO,Guajará-Mirim,SBGM,RO0006,Cadastrado,146.0,VFR,,,,,2025,False
+Anápolis,-16.3625,-48.928056,5201108,GO,Anápolis,SWNS,GO0004,Cadastrado,1112.0,VFR,,,,,2025,False
+Farol de São Tomé,-22.030556,-41.068611,3301009,RJ,Campos dos Goytacazes,SBFS,RJ0028,Cadastrado,2.0,,,,,,2025,False
+Regional de Rio Grande,-32.083611,-52.167778,4315602,RS,Rio Grande,SJRG,RS0013,Cadastrado,6.0,VFR,,,,,2025,False
+Arapiraca,-9.776389,-36.630556,2700300,AL,Arapiraca,SNAL,AL0003,Cadastrado,270.0,VFR,,,,,2025,False
+Ouriçanga de Abreu,-14.118056,-46.345278,5218300,GO,Posse,SWPZ,GO0010,Cadastrado,841.0,VFR,,,,,2025,False
+Luis Alberto Lehr,-27.908889,-54.522222,4317202,RS,Santa Rosa,SSZR,RS0027,Cadastrado,309.0,VFR,,,,,2025,False
+Porangatu,-13.404444,-49.157222,5218003,GO,Porangatu,SWWA,GO0012,Cadastrado,366.0,VFR,,,,,2025,False
+Pedro Teixeira Castelo Regional Tauá,-5.933333,-40.2975,2313302,CE,Tauá,SDZG,CE0008,Cadastrado,444.0,VFR,,,,,2025,False
+Guaxupé,-21.326667,-46.730278,3128709,MG,Guaxupé,SNGX,MG0023,Cadastrado,849.0,VFR,,,,,2025,False
+Francisco de Assis,-21.793056,-43.385556,3136702,MG,Juiz de Fora,SBJF,MG0016,Cadastrado,911.0,VFR / IFR Não Precisão,,,,,2025,False
+Dr. Antonio Ribeiro Nogueira Júnior,-24.164722,-46.785556,3522109,SP,Itanhaém,SDIM,SP0033,Cadastrado,3.0,VFR,,,,,2025,False
+São Paulo Catarina Aeroporto Executivo,-23.426944,-47.165833,3550605,SP,São Roque,SBJH,SP1176,Cadastrado,777.0,,,,,,2025,False
+Frederico Carlos Müller,-14.019722,-52.151944,5100201,MT,Água Boa,SWHP,MT0006,Cadastrado,450.0,,,,,,2025,False
+Padre Israel (Israel Batista de Carvalho),-21.240556,-44.964167,3138203,MG,Lavras,SSOL,MG0027,Cadastrado,959.0,,,,,,2025,False
+Colatina,-19.4875,-40.579444,3201506,ES,Colatina,SNCX,ES0004,Cadastrado,153.0,VFR,,,,,2025,False
+José Vicente Faria Lima,-21.89,-50.505833,3555000,SP,Tupã,SDTP,SP0025,Cadastrado,550.0,,,,,,2025,False
+Sorocaba,-23.477778,-47.49,3552205,SP,Sorocaba,SDCO,SP0027,Cadastrado,635.0,,,,,,2025,False
+Rio Claro,-22.431667,-47.5625,3543907,SP,Rio Claro,SDRK,SP0049,Cadastrado,600.0,,,,,,2025,False
+José Carlos de Barros Neiva,-22.937778,-48.468056,3507506,SP,Botucatu,SDBK,SP0019,Cadastrado,888.0,,,,,,2025,False
+Municipal de São João da Boa Vista,-22.017778,-46.840833,3549102,SP,São João da Boa Vista,SDJV,SP0035,Cadastrado,762.0,,,,,,2025,False
+Americana,-22.755278,-47.268056,3501608,SP,Americana,SDAI,SP0047,Cadastrado,611.0,,,,,,2025,False
+Paulino Ribeiro de Andrade,-20.925,-51.381944,3502101,SP,Andradina,SDDN,SP0020,Cadastrado,380.0,,,,,,2025,False
+COMANDANTE VIRGILIO BORIM,-21.561389,-45.754722,3147204,MG,Paraguaçu,SNPU,MG0073,Interditado,898.0,,,,,,2025,False
+Morrinhos,-17.761667,-49.121667,5213806,GO,Morrinhos,SJ4Y,GO0028,Cadastrado,803.0,,,,,,2025,False
+Carazinho,-28.321667,-52.816667,4304705,RS,Carazinho,SSKZ,RS0009,Cadastrado,590.0,,,,,,2025,False
+JUSCELINO KUBITSCHEK,-18.232222,-43.650278,3121605,MG,Diamantina,SNDT,MG0030,Cadastrado,1356.0,,,,,,2025,False
+Macaé,-22.342778,-41.763889,3302403,RJ,Macaé,SBME,RJ0004,Cadastrado,2.0,VFR / IFR Não Precisão,,,,,2025,False
+Prefeito Octávio de Almeida Neves,-21.085556,-44.225278,3162500,MG,São João Del Rei,SNJR,MG0034,Cadastrado,945.0,,,,,,2025,False
+AERÓDROMO DE CACHOEIRO DE ITAPEMIRIM,-20.835278,-41.186389,3201209,ES,Cachoeiro de Itapemirim,SNKI,ES0006,Cadastrado,78.0,,,,,,2025,False
+Cangapara,-6.846111,-43.078056,2203909,PI,Floriano,SNQG,PI0003,Cadastrado,210.0,,,,,,2025,False
+Estância Santa Maria,-20.505556,-54.524722,5002704,MS,Campo Grande,SSKG,MS0003,Cadastrado,618.0,,,,,,2025,False
+Mello Viana,-21.789167,-45.268056,3169307,MG,Três Corações,SNVI,MG0035,Cadastrado,976.0,,,,,,2025,False
+Helmuth Baungartem,-27.159722,-49.542778,4209904,SC,Lontras,SSLN,SC0018,Cadastrado,334.0,,,,,,2025,False
+João Durval Carneiro,-12.200556,-38.906389,2910800,BA,Feira de Santana,SDIY,BA0013,Cadastrado,238.0,,,,,,2025,False
+São Mateus,-18.721389,-39.833611,3204906,ES,São Mateus,SNMX,ES0003,Cadastrado,30.0,,,,,,2025,False
+Erechim,-27.663333,-52.271944,4307005,RS,Erechim,SSER,RS0018,Cadastrado,761.0,,,,,,2025,False
+Porto do Açu,-21.801389,-41.1025,3305000,RJ,São João da Barra,SBPW,RJ0321,Cadastrado,5.0,,,,,,2025,False
+João Pereira dos Santos Filho,-7.1,-40.628333,2204303,PI,Fronteiras,SSFL,PI0006,Interditado,448.0,,,,,,2025,False
+Bacacheri,-25.403333,-49.233611,4106902,PR,Curitiba,SBBI,PR0006,Cadastrado,931.0,,,,,,2025,False
+Pirenópolis,-15.848611,-48.982778,5217302,GO,Pirenópolis,SNMH,GO0018,Cadastrado,784.0,,,,,,2025,False
+Domingos Pignatari,-20.457222,-50.0025,3557105,SP,Votuporanga,SDVG,SP0026,Cadastrado,511.0,,,,,,2025,False
+Cirilo Queiróz,-16.165833,-40.684167,3101706,MG,Almenara,SNAR,MG0033,Cadastrado,195.0,,,,,,2025,False
+Paulo Afonso,-9.401111,-38.251111,2924009,BA,Paulo Afonso,SBUF,BA0007,Cadastrado,269.0,,,,,,2025,False
+Quirinópolis,-18.446111,-50.409167,5218508,GO,Quirinópolis,SJQN,GO0006,Cadastrado,586.0,Sem Operação,,,,,2025,False
+Primavera do Leste,-15.5625,-54.330556,5107040,MT,Primavera do Leste,SWPY,MT0023,Cadastrado,655.0,,,,,,2025,False
+Aeroporto Municipal José Caires de Oliveira,-13.549167,-48.195556,5213087,GO,Minaçu,SWIQ,GO0019,Cadastrado,427.0,VFR,,,,,2025,False
+Prefeito Dr. Carlos Alberto da Costa Neves,-26.788056,-50.94,4203006,SC,Caçador,SBCD,SC0006,Cadastrado,1029.0,VFR / IFR Não Precisão,,,,,2025,False
+Municipal João Winckler,-26.875,-52.372778,4219507,SC,Xanxerê,SSXX,SC0017,Cadastrado,910.0,VFR,,,,,2025,False
+HELIO ALVES DE OLIVEIRA,-29.719722,-51.488889,4312401,RS,Montenegro,SSNG,RS0046,Cadastrado,24.0,Sem Operação,,,,,2025,False
+Pampulha - Carlos Drummond de Andrade,-19.851944,-43.950556,3106200,MG,Belo Horizonte,SBBH,MG0003,Cadastrado,789.0,VFR / IFR Não Precisão,,,,,2025,False
+Comandante Paschoal Patrocínio Filho,-21.431389,-45.932222,3101607,MG,Alfenas,SNFE,MG0012,Cadastrado,881.0,VFR,,,,,2025,False
+Oiapoque,3.854167,-51.797222,1600501,AP,Oiapoque,SBOI,AP0002,Cadastrado,16.0,,,,,,2025,False
+Uruaçu,-14.544722,-49.091111,5221601,GO,Uruaçu,SWWU,GO0013,Cadastrado,520.0,Sem Operação,,,,,2025,False
+Sousa,-6.785556,-38.233889,2516201,PB,Sousa,SNQD,PB0006,Cadastrado,227.0,,,,,,2025,False
+Santa Terezinha,-27.171389,-51.553333,4209003,SC,Joaçaba,SSJA,SC0014,Cadastrado,782.0,VFR,,,,,2025,False
+Novo Aeroporto de Bom Jesus da Lapa,-13.2725,-43.314722,2903904,BA,Bom Jesus da Lapa,SN3Y,BA0251,Cadastrado,443.0,VFR,,,,,2025,False
+Picos,-7.061389,-41.525833,2208007,PI,Picos,SNPC,PI0009,Cadastrado,335.0,,,,,,2025,False
+Caxambu,-21.9175,-44.969444,3115508,MG,Caxambu,SNXB,MG0025,Cadastrado,874.0,VFR,,,,,2025,False
+Jataí,-17.83,-51.775278,5211909,GO,Jataí,SWJW,GO0008,Cadastrado,771.0,VFR,,,,,2025,False
+Pouso Alegre,-22.288889,-45.919444,3152501,MG,Pouso Alegre,SNZA,MG0038,Cadastrado,885.0,,,,,,2025,False
+Ângelo Ponzoni,-26.999722,-51.141389,4219309,SC,Videira,SSVI,SC0011,Cadastrado,843.0,Sem Operação,,,,,2025,False
+Aeródromo Nacional de Aviação,-16.625556,-49.349444,5208707,GO,Goiânia,SBNV,GO0002,Cadastrado,824.0,Sem Operação,,,,,2025,False
+Capão da Canoa,-29.763611,-50.036944,4304630,RS,Capão da Canoa,SSKK,RS0052,Cadastrado,10.0,,,,,,2025,False
+Edu Chaves,-23.09,-52.488611,4118402,PR,Paranavaí,SSPI,PR0010,Cadastrado,474.0,Sem Operação,,,,,2025,False
+Guaratinguetá,-22.791667,-45.204444,3518404,SP,Guaratinguetá,SBGW,SP0076,Cadastrado,537.0,VFR / IFR Não Precisão,,,,,2025,False
+Coxim,-18.481389,-54.715833,5003306,MS,Coxim,SSCI,MS0012,Cadastrado,294.0,Sem Operação,,,,,2025,False
+Regional Orlando Villas Boas,-10.17,-54.953889,5105606,MT,Matupá,SWXM,MT0014,Cadastrado,270.0,,,,,,2025,False
+Maracaju,-21.633889,-55.145,5005400,MS,Maracaju,SSMJ,MS0020,Cadastrado,390.0,Sem Operação,,,,,2025,False
+André Antônio Maggi,-15.193333,-59.385278,5106752,MT,Pontes e Lacerda,SWBG,MT0009,Interditado,247.0,Sem Operação,,,,,2025,False
+Itaqui,-29.171944,-56.538333,4310603,RS,Itaqui,SSIQ,RS0045,Interditado,84.0,Sem Operação,,,,,2025,False
+Nanuque,-17.823056,-40.329722,3144300,MG,Nanuque,SNNU,MG0041,Cadastrado,200.0,,,,,,2025,False
+Municipal Elber Pereira,-19.832222,-41.696111,3131208,MG,Ipanema,SJO7,MG0454,Cadastrado,252.0,Sem Operação,,,,,2025,False
+Jequié,-13.877778,-40.071389,2918001,BA,Jequié,SNJK,BA0047,Cadastrado,197.0,,,,,,2025,False
+JERÔNIMO SÉRGIO ROSADO MAIA,-6.3625,-37.755278,2504306,PB,Catolé do Rocha,SIBU,PB0012,Cadastrado,272.0,,,,,,2025,False
+Francisco Lacerda Júnior,-23.1525,-50.6025,4106407,PR,Cornélio Procópio,SSCP,PR0015,Cadastrado,567.0,Sem Operação,,,,,2025,False
+Diamantino,-14.376667,-56.400556,5103502,MT,Diamantino,SWDM,MT0015,Cadastrado,469.0,,,,,,2025,False
+Maracás,-13.386111,-40.466111,2920502,BA,Maracás,SNMJ,BA0031,Cadastrado,962.0,,,,,,2025,False
+Tatuí,-23.331944,-47.88,3554003,SP,Tatuí,SDTF,SP0050,Cadastrado,635.0,Sem Operação,,,,,2025,False
+Arroio Grande,-32.229167,-53.055833,4301305,RS,Arroio Grande,SSAE,RS0040,Cadastrado,49.0,Sem Operação,,,,,2025,False
+Ariquemes,-9.880556,-63.047222,1100023,RO,Ariquemes,SJOG,RO0008,Cadastrado,142.0,Sem Operação,,,,,2025,False
+Garibaldi,-29.268333,-51.532222,4308607,RS,Garibaldi,SSGA,RS0020,Cadastrado,680.0,Sem Operação,,,,,2025,False
+Porto Nacional,-10.718056,-48.398889,1718204,TO,Porto Nacional,SDPE,TO0003,Cadastrado,270.0,Sem Operação,,,,,2025,False
+Pinheiro,-2.4775,-45.105,2108603,MA,Pinheiro,SNYE,MA0004,Cadastrado,20.0,Sem Operação,,,,,2025,False
+Sebastião Carlos Leite,-21.542222,-43.021111,3162906,MG,São João Nepomuceno,SNNE,MG0078,Cadastrado,403.0,Sem Operação,,,,,2025,False
+Senhor do Bonfim,-10.518611,-40.081944,2930105,BA,Senhor do Bonfim,SJO9,BA0253,Cadastrado,466.0,IFR Não Precisão,,,,,2025,False
+Caratinga,-19.725278,-42.112222,3170057,MG,Ubaporanga,SNCT,MG0056,Cadastrado,599.0,,,,,,2025,False
+São Lourenço,-22.090833,-45.044444,3163706,MG,São Lourenço,SNLO,MG0037,Cadastrado,875.0,Sem Operação,,,,,2025,False
+São Borja,-28.654722,-56.034722,4318002,RS,São Borja,SSSB,RS0014,Cadastrado,80.0,Sem Operação,,,,,2025,False
+Casa Nova,-9.1575,-40.9375,2907202,BA,Casa Nova,SDFX,BA0054,Cadastrado,405.0,,,,,,2025,False
+São Lourenço do Sul,-31.384722,-52.0325,4318804,RS,São Lourenço do Sul,SSRU,RS0034,Cadastrado,27.0,Sem Operação,,,,,2025,False
+São Sepé,-30.182222,-53.579444,4319604,RS,São Sepé,SSEP,RS0031,Cadastrado,153.0,,,,,,2025,False
+Ijuí,-28.368611,-53.846389,4310207,RS,Ijuí,SSIJ,RS0032,Cadastrado,365.0,VFR,,,,,2025,False
+Itaberaba,-12.499722,-40.270278,2914703,BA,Itaberaba,SNIB,BA0045,Cadastrado,283.0,,,,,,2025,False
+Mocambinho,-15.093056,-43.979167,3135050,MG,Jaíba,SNMK,MG0017,Cadastrado,450.0,Sem Operação,,,,,2025,False
+Carauari,-4.871389,-66.8975,1301001,AM,Carauari,SWCA,AM0007,Cadastrado,108.0,Sem Operação,,,,,2025,False
+Buritirama,-10.721667,-43.653611,2904753,BA,Buritirama,SNTQ,BA0053,Cadastrado,499.0,,,,,,2025,False
+Ibitinga,-21.747222,-48.855833,3519600,SP,Ibitinga,SDIG,SP0038,Cadastrado,542.0,Sem Operação,,,,,2025,False
+Ibotirama,-12.168333,-43.2225,2913200,BA,Ibotirama,SNIT,BA0046,Cadastrado,422.0,,,,,,2025,False
+Cáceres,-16.0425,-57.63,5102504,MT,Cáceres,SWKC,MT0017,Cadastrado,151.0,VFR,,,,,2025,False
+Attillio Accorsi,-22.917778,-53.149722,4113502,PR,Loanda,SSLO,PR0031,Interditado,470.0,Sem Operação,,,,,2025,False
+Castro Alves,-12.767778,-39.444722,2907301,BA,Castro Alves,SSRF,BA0034,Cadastrado,261.0,Sem Operação,,,,,2025,False
+Itacoatiara,-3.126389,-58.481667,1301902,AM,Itacoatiara,SBIC,AM0012,Cadastrado,43.0,,,,,,2025,False
+Formosa,-15.556111,-47.344722,5208004,GO,Formosa,SWFR,GO0014,Cadastrado,973.0,Sem Operação,,,,,2025,False
+Riachão,-7.346389,-46.6275,2109502,MA,Riachão,SNRX,MA0009,Cadastrado,400.0,Sem Operação,,,,,2025,False
+São Joaquim da Barra,-20.593333,-47.842222,3549409,SP,São Joaquim da Barra,SDJO,SP0057,Cadastrado,650.0,,,,,,2025,False
+Oriximiná,-1.713611,-55.835833,1505304,PA,Oriximiná,SNOX,PA0014,Cadastrado,80.0,Sem Operação,,,,,2025,False
+Novo Horizonte,-21.497778,-49.234444,3533502,SP,Novo Horizonte,SDNH,SP0060,Cadastrado,465.0,Sem Operação,,,,,2025,False
+Três Barras,-26.135278,-50.310556,4218301,SC,Três Barras,SSTB,SC0013,Cadastrado,789.0,,,,,,2025,False
+Sento Sé,-9.7575,-41.855,2930204,BA,Sento Sé,SNSE,BA0056,Cadastrado,398.0,,,,,,2025,False
+Capão Bonito,-24.033611,-48.356944,3510203,SP,Capão Bonito,SDCA,SP0051,Interditado,714.0,,,,,,2025,False
+Tangará da Serra,-14.661944,-57.443889,5107958,MT,Tangará da Serra,SWTS,MT0012,Cadastrado,449.0,Sem Operação,,,,,2025,False
+Salgueiro,-8.046667,-39.133889,2612208,PE,Salgueiro,SNSG,PE0008,Interditado,469.0,,,,,,2025,False
+Santa Cruz do Sul,-29.684167,-52.412222,4316808,RS,Santa Cruz do Sul,SSSC,RS0029,Cadastrado,199.0,Sem Operação,,,,,2025,False
+Tarauacá,-8.155278,-70.783056,1200609,AC,Tarauacá,SBTK,AC0004,Cadastrado,192.0,Sem Operação,,,,,2025,False
+Porto Murtinho,-21.712778,-57.879167,5006903,MS,Porto Murtinho,SSPM,MS0013,Cadastrado,132.0,,,,,,2025,False
+Bacabal,-4.228056,-44.819722,2101202,MA,Bacabal,SNBI,MA0005,Cadastrado,21.0,,,,,,2025,False
+Pires do Rio,-17.318889,-48.335278,5217401,GO,Pires do Rio,SWPR,GO0029,Cadastrado,781.0,,,,,,2025,False
+Curvelo,-18.749444,-44.458056,3120904,MG,Curvelo,SNQV,MG0044,Cadastrado,672.0,Sem Operação,,,,,2025,False
+Mirassol,-20.807222,-49.486111,3530300,SP,Mirassol,SDMH,SP0059,Interditado,584.0,Sem Operação,,,,,2025,False
+Patrocínio,-18.909167,-46.982778,3148103,MG,Patrocínio,SNPJ,MG0042,Cadastrado,985.0,,,,,,2025,False
+Oeiras,-7.018333,-42.167222,2207009,PI,Oeiras,SNOE,PI0008,Cadastrado,266.0,Sem Operação,,,,,2025,False
+Presidente Venceslau,-21.893333,-51.884444,3541505,SP,Presidente Venceslau,SDPV,SP0040,Cadastrado,445.0,Sem Operação,,,,,2025,False
+Aragarças,-15.899444,-52.240833,5201702,GO,Aragarças,SJVO,GO0030,Cadastrado,323.0,,,,,,2025,False
+Novo Hamburgo,-29.699167,-51.081944,4313409,RS,Novo Hamburgo,SSNH,RS0023,Cadastrado,15.0,Sem Operação,,,,,2025,False
+João Silva,-3.654444,-45.345278,2109908,MA,Santa Inês,SJBY,MA0007,Cadastrado,21.0,,,,,,2025,False
+Soledade,-28.863333,-52.540556,4320800,RS,Soledade,SSSD,RS0017,Cadastrado,673.0,,,,,,2025,False
+Paraty,-23.223889,-44.723333,3303807,RJ,Paraty,SDTK,RJ0011,Cadastrado,3.0,,,,,,2025,False
+Resende,-22.478611,-44.481667,3304201,RJ,Resende,SDRS,RJ0007,Cadastrado,402.0,,,,,,2025,False
+Monte Santo,-10.465278,-39.286111,2921500,BA,Monte Santo,SSQP,BA0061,Cadastrado,442.0,,,,,,2025,False
+Conceição do Mato Dentro,-19.018611,-43.435278,3117504,MG,Conceição do Mato Dentro,SNKD,MG0070,Interditado,668.0,,,,,,2025,False
+São Luiz Gonzaga,-28.376389,-55.0375,4318903,RS,São Luiz Gonzaga,SSLG,RS0021,Cadastrado,200.0,,,,,,2025,False
+Dianópolis,-11.595278,-46.847778,1707009,TO,Dianópolis,SWDN,TO0006,Cadastrado,736.0,,,,,,2025,False
+Jacobina,-11.163056,-40.553333,2917508,BA,Jacobina,SNJB,BA0062,Cadastrado,489.0,,,,,,2025,False
+Cassilândia,-19.146944,-51.676389,5002902,MS,Cassilândia,SSCL,MS0018,Cadastrado,481.0,Sem Operação,,,,,2025,False
+Vila Rica,-9.981111,-51.140556,5108600,MT,Vila Rica,SWVC,MT0016,Cadastrado,254.0,Sem Operação,,,,,2025,False
+Santa Rita do Sapucaí,-22.272778,-45.64,3159605,MG,Santa Rita do Sapucaí,SJXI,MG0311,Cadastrado,882.0,Sem Operação,,,,,2025,False
+Moisés Lupion,-23.762778,-50.263056,4109708,PR,Ibaiti,SSAB,PR0024,Cadastrado,636.0,,,,,,2025,False
+Formosa do Rio Preto,-11.021111,-45.187222,2911105,BA,Formosa do Rio Preto,SDKJ,BA0025,Cadastrado,511.0,Sem Operação,,,,,2025,False
+Oliveira,-20.714444,-44.865278,3145604,MG,Oliveira,SNRZ,MG0049,Cadastrado,1015.0,VFR,,,,,2025,False
+Vera Cruz,-22.230278,-49.816944,3556602,SP,Vera Cruz,SDVE,SP0070,Cadastrado,640.0,Sem Operação,,,,,2025,False
+Tupi Paulista,-21.393056,-51.598889,3555109,SP,Tupi Paulista,SDTI,SP0073,Cadastrado,365.0,Sem Operação,,,,,2025,False
+João Pinheiro,-17.7875,-46.120278,3136306,MG,João Pinheiro,SNJP,MG0036,Cadastrado,911.0,,,,,,2025,False
+Dimorvan Carraro,-26.472222,-51.975556,4117602,PR,Palmas,SSPS,PR0036,Cadastrado,1100.0,Sem Operação,,,,,2025,False
+Pederneiras,-22.307222,-48.773056,3536703,SP,Pederneiras,SSOI,SP0043,Cadastrado,536.0,,,,,,2025,False
+Barra do Corda,-5.5025,-45.216111,2101608,MA,Barra do Corda,SNBC,MA0006,Cadastrado,160.0,Sem Operação,,,,,2025,False
+Balduino Helmuth Jope,-24.512778,-54.054722,4114609,PR,Marechal Cândido Rondon,SSCR,PR0016,Cadastrado,421.0,,,,,,2025,False
+Pirassununga,-22.027778,-47.421667,3539301,SP,Pirassununga,SDPY,SP0066,Cadastrado,683.0,Sem Operação,,,,,2025,False
+Jaboticabal,-21.230833,-48.285556,3524303,SP,Jaboticabal,SDJC,SP0064,Cadastrado,615.0,,,,,,2025,False
+Mucugê,-13.031667,-41.444444,2921906,BA,Mucugê,SNQU,BA0032,Cadastrado,1055.0,,,,,,2025,False
+Itaperuna,-21.219167,-41.875833,3302205,RJ,Itaperuna,SDUN,RJ0008,Cadastrado,110.0,,,,,,2025,False
+Coronel Aviador Carlos Orleans Guimarães,-20.276667,-50.213889,3515509,SP,Fernandópolis,SDFD,SP0054,Cadastrado,499.0,,,,,,2025,False
+Ubá,-21.12,-42.883611,3169901,MG,Ubá,SNUB,MG0058,Cadastrado,317.0,,,,,,2025,False
+Brigadeiro Eduardo Gomes,-13.821111,-56.038611,5106224,MT,Nova Mutum,SDNM,MT0047,Cadastrado,430.0,,,,,,2025,False
+Mostardas,-31.101111,-50.908056,4312500,RS,Mostardas,SSMT,RS0044,Cadastrado,18.0,Sem Operação,,,,,2025,False
+Tito Teixeira,-19.001389,-49.487222,3134202,MG,Ituiutaba,SNYB,MG0047,Cadastrado,612.0,Sem Operação,,,,,2025,False
+Garça,-22.183611,-49.656111,3516705,SP,Garça,SDGC,SP0055,Cadastrado,664.0,Sem Operação,,,,,2025,False
+Humaitá,-7.534722,-63.072222,1301704,AM,Humaitá,SWHT,AM0019,Cadastrado,70.0,Sem Operação,,,,,2025,False
+Vacaria Novo,-28.431944,-51.022778,4322509,RS,Vacaria,SNEE,RS0004,Cadastrado,914.0,,,,,,2025,False
+Quixadá,-4.978889,-38.987778,2311306,CE,Quixadá,SNQX,CE0010,Cadastrado,225.0,Sem Operação,,,,,2025,False
+Araras,-22.336944,-47.358333,3503307,SP,Araras,SDAA,SP0045,Cadastrado,685.0,,,,,,2025,False
+Avaré-Arandu,-23.092222,-48.987222,3504503,SP,Avaré,SDRR,SP0028,Cadastrado,798.0,,,,,,2025,False
+Paraguaçu Paulista,-22.426944,-50.606944,3535507,SP,Paraguaçu Paulista,SDUQ,SP0042,Interditado,486.0,,,,,,2025,False
+Blumenau,-26.831667,-49.093611,4202404,SC,Blumenau,SSBL,SC0019,Cadastrado,18.0,Sem Operação,,,,,2025,False
+Novo Campo,-8.834722,-67.3125,1300706,AM,Boca do Acre,SWNK,AM0011,Cadastrado,120.0,,,,,,2025,False
+Sertanópolis,-23.061944,-51.013889,4126504,PR,Sertanópolis,SSSZ,PR0033,Cadastrado,361.0,Sem Operação,,,,,2025,False
+Balsas,-7.525278,-46.053333,2101400,MA,Balsas,SNBS,MA0010,Cadastrado,284.0,,,,,,2025,False
+João Galdino,-23.027222,-50.226944,4101101,PR,Andirá,SSAN,PR0032,Cadastrado,490.0,,,,,,2025,False
+Piumhi,-20.438889,-45.992222,3151503,MG,Piumhi,SNUH,MG0054,Cadastrado,751.0,Sem Operação,,,,,2025,False
+Ipiranga,-2.940278,-69.694167,1303700,AM,Santo Antônio do Içá,SWII,AM0013,Cadastrado,67.0,,,,,,2025,False
+Nioaque,-21.184444,-55.831111,5005806,MS,Nioaque,SSNQ,MS0016,Cadastrado,202.0,Sem Operação,,,,,2025,False
+Caetité,-14.012222,-42.493889,2905206,BA,Caetité,SNIE,BA0020,Cadastrado,976.0,,,,,,2025,False
+Bariri,-22.069167,-48.706389,3505203,SP,Bariri,SDBY,SP0032,Cadastrado,493.0,Sem Operação,,,,,2025,False
+Everaldo Moraes Barreto,-21.696111,-51.096389,3500105,SP,Adamantina,SDAD,SP0046,Cadastrado,425.0,Sem Operação,,,,,2025,False
+Municipal de Guaratuba,-25.880556,-48.612222,4109609,PR,Guaratuba,SSGB,PR0035,Cadastrado,15.0,Sem Operação,,,,,2025,False
+Baixo Guandu - Aimorés,-19.498889,-41.041944,3200805,ES,Baixo Guandu,SNBG,ES0005,Interditado,80.0,,,,,,2025,False
+Ceres,-15.343889,-49.604444,5205406,GO,Ceres,SWCZ,GO0024,Cadastrado,598.0,,,,,,2025,False
+Aeroporto Estadual de Registro,-24.531667,-47.840278,3542602,SP,Registro,SSRG,SP0030,Cadastrado,25.0,,,,,,2025,False
+Três Marias,-18.225,-45.190556,3169356,MG,Três Marias,SNAS,MG0022,Cadastrado,786.0,,,,,,2025,False
+Ponte Nova,-20.403056,-42.916667,3152105,MG,Ponte Nova,SNCZ,MG0059,Interditado,572.0,,,,,,2025,False
+Redenção,-8.031111,-49.979722,1506138,PA,Redenção,SNDC,PA0030,Cadastrado,207.0,,,,,,2025,False
+Flores,-3.072778,-60.021111,1302603,AM,Manaus,SWFN,AM0002,Cadastrado,62.0,,,,,,2025,False
+Xique-Xique,-10.834167,-42.683333,2933604,BA,Xique-Xique,SNXQ,BA0018,Interditado,427.0,,,,,,2025,False
+Santos Dumont,-25.540278,-48.531111,4118204,PR,Paranaguá,SSPG,PR0011,Cadastrado,11.0,Sem Operação,,,,,2025,False
+Nova Xavantina,-14.697778,-52.347222,5106257,MT,Nova Xavantina,SWXV,MT0013,Cadastrado,308.0,Sem Operação,,,,,2025,False
+Barra,-11.081111,-43.1475,2902708,BA,Barra,SNBX,BA0028,Cadastrado,389.0,,,,,,2025,False
+Manoel Ribas,-24.529444,-51.651667,4114500,PR,Manoel Ribas,SSMR,PR0026,Cadastrado,886.0,,,,,,2025,False
+Campo Belo,-20.8925,-45.335556,3111200,MG,Campo Belo,SNCA,MG0031,Cadastrado,970.0,Sem Operação,,,,,2025,False
+São Félix do Araguaia,-11.6325,-50.689444,5107859,MT,São Félix do Araguaia,SWFX,MT0022,Cadastrado,199.0,Sem Operação,,,,,2025,False
+Siqueira Campos,-23.674722,-49.815556,4126603,PR,Siqueira Campos,SSQC,PR0029,Cadastrado,705.0,Sem Operação,,,,,2025,False
+Mococa,-21.487222,-47.033889,3530508,SP,Mococa,SDKK,SP0058,Cadastrado,651.0,,,,,,2025,False
+Poconé,-16.271667,-56.651111,5106505,MT,Poconé,SWPK,MT0021,Cadastrado,185.0,,,,,,2025,False
+Pirapora,-17.313889,-44.858611,3151206,MG,Pirapora,SNPX,MG0028,Cadastrado,551.0,Sem Operação,,,,,2025,False
+Senadora Eunice Michiles,-3.469167,-68.921111,1303908,AM,São Paulo de Olivença,SDCG,AM0016,Cadastrado,102.0,,,,,,2025,False
+Tietê,-23.104722,-47.724444,3554508,SP,Tietê,SDET,SP0067,Cadastrado,501.0,Sem Operação,,,,,2025,False
+Mineiros,-17.551389,-52.556667,5213103,GO,Mineiros,SWME,GO0033,Cadastrado,843.0,Sem Operação,,,,,2025,False
+Cristiano Ferreira Varella,-21.128889,-42.366944,3143906,MG,Muriaé,SNBM,MG0051,Cadastrado,270.0,Sem Operação,,,,,2025,False
+Engenheiro Gastão de Mesquita Filho,-23.691667,-52.642222,4105508,PR,Cianorte,SSCT,PR0025,Cadastrado,540.0,VFR,,,,,2025,False
+Santiago,-29.215,-54.841667,4317400,RS,Santiago,SSST,RS0015,Cadastrado,441.0,Sem Operação,,,,,2025,False
+Brigadeiro Nero Moura,-30.002222,-52.940278,4303004,RS,Cachoeira do Sul,SSKS,RS0039,Cadastrado,77.0,,,,,,2025,False
+Espumoso,-28.738056,-52.855556,4307500,RS,Espumoso,SSEZ,RS0050,Cadastrado,390.0,,,,,,2025,False
+Bebedouro,-20.900278,-48.473611,3506102,SP,Bebedouro,SDBB,SP0018,Cadastrado,592.0,,,,,,2025,False
+Deputado Oswaldo Tolentino,-20.445833,-44.813056,3116605,MG,Cláudio,SWUD,MG0069,Cadastrado,820.0,,,,,,2025,False
+Taguatinga,-12.435,-46.400278,1720903,TO,Taguatinga,SWTY,TO0009,Cadastrado,597.0,Sem Operação,,,,,2025,False
+Walter Bündchen,-27.638333,-54.338889,4309605,RS,Horizontina,SSHZ,RS0037,Cadastrado,310.0,,,,,,2025,False
+São Miguel do Araguaia,-13.333889,-50.205833,5220207,GO,São Miguel do Araguaia,SWUA,GO0011,Cadastrado,384.0,Sem Operação,,,,,2025,False
+Terra Santa,-2.072778,-56.488889,1507979,PA,Terra Santa,SJTS,PA0028,Interditado,25.0,,,,,,2025,False
+Dário Brasil Capoano de Oliveira,-30.2775,-54.925278,4316402,RS,Rosário do Sul,SSRZ,RS0024,Cadastrado,102.0,Sem Operação,,,,,2025,False
+Monte Alto,-21.258056,-48.524167,3531308,SP,Monte Alto,SDMO,SP0068,Cadastrado,750.0,,,,,,2025,False
+Itaporanga,-7.311111,-38.113611,2507002,PB,Itaporanga,SIBZ,PB0010,Cadastrado,292.0,,,,,,2025,False
+Unaí,-16.353889,-46.926944,3170404,MG,Unaí,SNUN,MG0055,Cadastrado,600.0,Sem Operação,,,,,2025,False
+Canarana,-13.5775,-52.268056,5102702,MT,Canarana,SWEK,MT0024,Cadastrado,398.0,Sem Operação,,,,,2025,False
+AEROPORTO MUNICIPAL BOM FUTURO,-13.037778,-55.950278,5105259,MT,Lucas do Rio Verde,SILC,MT0025,Cadastrado,414.0,VFR,,,,,2025,False
+São Francisco do Sul,-26.221111,-48.564444,4216206,SC,São Francisco do Sul,SSSS,SC0022,Cadastrado,15.0,Sem Operação,,,,,2025,False
+Manoel Ribas,-24.219722,-53.043889,4108601,PR,Goioerê,SSGW,PR0037,Cadastrado,491.0,,,,,,2025,False
+Teruel Ipanema Estância,-20.603889,-54.595278,5002704,MS,Campo Grande,SSIE,MS0002,Cadastrado,528.0,,,,,,2025,False
+Juína,-11.419444,-58.71,5105150,MT,Juína,SWJN,MT0007,Cadastrado,330.0,Sem Operação,,,,,2025,False
+Lourival Nunes de Farias,-7.878333,-37.136667,2509701,PB,Monteiro,SIBY,PB0009,Cadastrado,622.0,,,,,,2025,False
+Brigadeiro Araripe Macedo,-16.261667,-47.968611,5212501,GO,Luziânia,SWUZ,GO0025,Cadastrado,996.0,Sem Operação,,,,,2025,False
+Aeródromo Público de Almeirim,-1.479167,-52.578056,1500503,PA,Almeirim,SNYA,PA0024,Cadastrado,178.0,,,,,,2025,False
+Currais Novos,-6.280833,-36.540278,2403103,RN,Currais Novos,SNKN,RN0004,Cadastrado,367.0,Sem Operação,,,,,2025,False
+Prado,-17.296944,-39.271944,2925501,BA,Prado,SNRD,BA0048,Cadastrado,27.0,,,,,,2025,False
+Porto Alegre do Norte,-10.918056,-51.608889,5106778,MT,Porto Alegre do Norte,SDH2,MT0662,Cadastrado,217.0,Sem Operação,,,,,2025,False
+Paranaíba,-19.651111,-51.199444,5006309,MS,Paranaíba,SSPN,MS0010,Cadastrado,442.0,,,,,,2025,False
+Janaúba,-15.731944,-43.323056,3135100,MG,Janaúba,SNAP,MG0021,Interditado,532.0,Sem Operação,,,,,2025,False
+Araguatins,-5.685833,-48.114167,1702208,TO,Araguatins,SJGU,TO0005,Interditado,125.0,,,,,,2025,False
+Nova Andradina,-22.1625,-53.330278,5006200,MS,Nova Andradina,SDK7,MS0563,Cadastrado,419.0,Sem Operação,,,,,2025,False
+Osório,-29.902222,-50.249167,4313508,RS,Osório,SSOS,RS0042,Cadastrado,17.0,Sem Operação,,,,,2025,False
+Carlos Ruhl,-28.658611,-53.611389,4306106,RS,Cruz Alta,SSAK,RS0048,Cadastrado,481.0,Sem Operação,,,,,2025,False
+Dionísio Cerqueira,-26.288056,-53.630833,4205001,SC,Dionísio Cerqueira,SND6,SC0012,Cadastrado,824.0,,,,,,2025,False
+São Félix do Xingu,-6.641389,-51.952222,1507300,PA,São Félix do Xingu,SNFX,PA0013,Cadastrado,183.0,,,,,,2025,False
+Cipó,-11.125278,-38.486944,2907905,BA,Cipó,SNIO,BA0010,Cadastrado,223.0,,,,,,2025,False
+Caçapava do Sul,-30.549722,-53.458056,4302808,RS,Caçapava do Sul,SSWS,RS0025,Interditado,416.0,,,,,,2025,False
+Belém Novo,-30.189167,-51.1825,4314902,RS,Porto Alegre,SSBN,RS0002,Cadastrado,5.0,Sem Operação,,,,,2025,False
+Brigadeiro Lysias Augusto Rodrigues,-7.320556,-47.458611,2102804,MA,Carolina,SBCI,MA0003,Cadastrado,172.0,,,,,,2025,False
+Jequitinhonha,-16.441389,-41.037222,3135803,MG,Jequitinhonha,SNJQ,MG0053,Cadastrado,234.0,,,,,,2025,False
+Conceição do Araguaia,-8.348611,-49.303056,1502707,PA,Conceição do Araguaia,SBAA,PA0008,Cadastrado,199.0,,,,,,2025,False
+Aeroclube de Passo Fundo,-28.250556,-52.516667,4314100,RS,Passo Fundo,SSAQ,RS0036,Cadastrado,600.0,Sem Operação,,,,,2025,False
+Pará de Minas,-19.8425,-44.600833,3147105,MG,Pará de Minas,SNPA,MG0052,Cadastrado,839.0,,,,,,2025,False
+Minas Novas,-17.263889,-42.539167,3141801,MG,Minas Novas,SNMN,MG0075,Cadastrado,825.0,Sem Operação,,,,,2025,False
+Aruanã,-14.933056,-51.048333,5202502,GO,Aruanã,SWNH,GO0017,Cadastrado,250.0,,,,,,2025,False
+Campos Belos,-13.006944,-46.710833,5204904,GO,Campos Belos,SWCB,GO0023,Cadastrado,690.0,Sem Operação,,,,,2025,False
+Ouro Fino,-22.297222,-46.3925,3146008,MG,Ouro Fino,SNOF,MG0057,Cadastrado,857.0,Sem Operação,,,,,2025,False
+Campos Sales,-7.051667,-40.358333,2302701,CE,Campos Sales,SNCS,CE0009,Cadastrado,615.0,,,,,,2025,False
+Costa Rica,-18.491389,-53.168333,5003256,MS,Costa Rica,SDXJ,MS0017,Cadastrado,738.0,,,,,,2025,False
+Sócrates Rezende,-15.666389,-38.955278,2906303,BA,Canavieiras,SNED,BA0023,Interditado,6.0,,,,,,2025,False
+Costa Marques,-12.421667,-64.251667,1100080,RO,Costa Marques,SWCQ,RO0007,Cadastrado,169.0,Sem Operação,,,,,2025,False
+Palmeira das Missões,-27.901667,-53.33,4313706,RS,Palmeira das Missões,SSPL,RS0043,Cadastrado,613.0,Sem Operação,,,,,2025,False
+Estadual Gastão Madeira,-23.441389,-45.076111,3555406,SP,Ubatuba,SDUB,SP0065,Cadastrado,3.0,Sem Operação,,,,,2025,False
+Niquelândia,-14.436389,-48.491944,5214606,GO,Niquelândia,SWNQ,GO0016,Interditado,840.0,Sem Operação,,,,,2025,False
+Ituverava,-20.375278,-47.768611,3524105,SP,Ituverava,SDIV,SP0056,Cadastrado,623.0,,,,,,2025,False
+Rio Paranaíba,-19.2125,-46.240556,3155504,MG,Rio Paranaíba,SNRP,MG0066,Cadastrado,1145.0,Sem Operação,,,,,2025,False
+Armando Natali,-21.624167,-48.350833,3529302,SP,Matão,SDLY,SP0071,Cadastrado,635.0,,,,,,2025,False
+Itapetinga,-15.244444,-40.277222,2916401,BA,Itapetinga,SNIP,BA0057,Cadastrado,270.0,,,,,,2025,False
+Castro,-24.8075,-49.959444,4104907,PR,Castro,SSQT,PR0013,Cadastrado,1010.0,Sem Operação,,,,,2025,False
+São Gabriel,-30.345,-54.267778,4318309,RS,São Gabriel,SSSG,RS0035,Cadastrado,145.0,,,,,,2025,False
+Brasílio Marques,-24.343333,-53.828611,4117909,PR,Palotina,SSPT,PR0028,Cadastrado,373.0,Sem Operação,,,,,2025,False
+Ibirubá,-28.604167,-53.078611,4310009,RS,Ibirubá,SSIR,RS0049,Cadastrado,457.0,Sem Operação,,,,,2025,False
+Óbidos,-1.868056,-55.514444,1505106,PA,Óbidos,SNTI,PA0016,Cadastrado,100.0,,,,,,2025,False
+Abaeté,-19.155833,-45.495,3100203,MG,Abaeté,SNLI,MG0040,Interditado,664.0,,,,,,2025,False
+Santa Maria da Vitória,-13.404722,-44.223056,2928109,BA,Santa Maria da Vitória,SNVD,BA0050,Cadastrado,465.0,,,,,,2025,False
+Ismael Nunes,-28.245556,-49.8975,4216503,SC,São Joaquim,SND4,SC0020,Cadastrado,1426.0,,,,,,2025,False
+Bom Jesus do Gurguéia,-9.059444,-44.369167,2201903,PI,Bom Jesus,SNGG,PI0007,Cadastrado,338.0,Sem Operação,,,,,2025,False
+Araguacema,-8.837778,-49.557778,1701903,TO,Araguacema,SJAU,TO0007,Interditado,207.0,,,,,,2025,False
+Gaudêncio Machado Ramos,-29.8125,-55.893333,4300406,RS,Alegrete,SSLT,RS0022,Cadastrado,125.0,,,,,,2025,False
+Gelindo Stefanuto,-13.731389,-57.891667,5102637,MT,Campo Novo do Parecis,SI68,MT0612,Cadastrado,593.0,Sem Operação,,,,,2025,False
+Viçosa,-20.745,-42.841389,3171303,MG,Viçosa,SNVC,MG0074,Cadastrado,659.0,,,,,,2025,False
+Mozarlândia,-14.768889,-50.565,5214002,GO,Mozarlândia,SDOV,GO0005,Cadastrado,328.0,Sem Operação,,,,,2025,False
+Realeza,-25.801111,-53.513056,4121406,PR,Realeza,SSRE,PR0030,Cadastrado,501.0,,,,,,2025,False
+Formiga,-20.394722,-45.483056,3126109,MG,Formiga,SNFO,MG0060,Interditado,1017.0,,,,,,2025,False
+Maraú,-14.143333,-39.006667,2920700,BA,Maraú,SNMR,BA0065,Cadastrado,9.0,Sem Operação,,,,,2025,False
+Yolanda Penteado,-22.225833,-47.380833,3526704,SP,Leme,SDLL,SP0048,Cadastrado,627.0,,,,,,2025,False
+Araçuaí,-16.851944,-42.046111,3103405,MG,Araçuaí,SNUI,MG0045,Cadastrado,328.0,,,,,,2025,False
+Alto Paraíso de Goiás,-14.119167,-47.530278,5200605,GO,Alto Paraíso de Goiás,SDXF,GO0020,Cadastrado,1339.0,,,,,,2025,False
+Jardim,-21.492778,-56.1525,5005004,MS,Jardim,SSJI,MS0019,Cadastrado,321.0,,,,,,2025,False
+Paraíso do Tocantins,-10.173889,-48.932778,1716109,TO,Paraíso do Tocantins,SWTO,TO0008,Cadastrado,353.0,Sem Operação,,,,,2025,False
+Municipal de Casa Branca,-21.788056,-47.055556,3510807,SP,Casa Branca,SSCB,SP0044,Cadastrado,712.0,IFR Não Precisão,,,,,2025,False
+Regional do Vale do Taquari,-29.455,-51.936111,4307807,RS,Estrela,SSEE,RS0054,Cadastrado,29.0,Sem Operação,,,,,2025,False
+Júlio de Castilhos,-29.153056,-53.743333,4322202,RS,Tupanciretã,SSJK,RS0028,Interditado,498.0,,,,,,2025,False
+Mogi Mirim,-22.410833,-46.905556,3530805,SP,Mogi Mirim,SDMJ,SP0022,Cadastrado,695.0,,,,,,2025,False
+Remanso,-9.58,-42.115833,2926004,BA,Remanso,SNRM,BA0022,Cadastrado,406.0,,,,,,2025,False
+Das Bandeirinhas,-20.738611,-43.7975,3118304,MG,Conselheiro Lafaiete,SNKF,MG0071,Cadastrado,1057.0,,,,,,2025,False
+Santa Maria do Suaçuí,-18.198611,-42.466111,3158201,MG,Santa Maria do Suaçuí,SNSI,MG0076,Interditado,480.0,,,,,,2025,False
+Pindamonhangaba,-22.943889,-45.431944,3538006,SP,Pindamonhangaba,SDPD,SP0072,Cadastrado,574.0,Sem Operação,,,,,2025,False
+Geraldo Moacir Bordon,-21.775,-52.143611,3541307,SP,Presidente Epitácio,SDEP,SP0052,Cadastrado,297.0,,,,,,2025,False
+Municipal de Bento Gonçalves,-29.1475,-51.540833,4302105,RS,Bento Gonçalves,SSBG,RS0091,Cadastrado,671.0,,,,,,2025,False
+Veranópolis,-28.935556,-51.567778,4322806,RS,Veranópolis,SSVN,RS0030,Cadastrado,676.0,Sem Operação,,,,,2025,False
+Pesqueira,-8.374722,-36.637778,2610905,PE,Pesqueira,SNPQ,PE0010,Cadastrado,630.0,Sem Operação,,,,,2025,False
+Ariosto da Riva,-23.034167,-54.177778,5005707,MS,Naviraí,SSNB,MS0015,Cadastrado,406.0,,,,,,2025,False
+Atibaia,-23.128333,-46.574722,3504107,SP,Atibaia,SDTB,SP0069,Cadastrado,797.0,,,,,,2025,False
+Inocência,-19.760556,-51.896389,5004403,MS,Inocência,SD5Q,MS0796,Cadastrado,554.0,Sem Operação,,,,,2025,False
+Alenquer,-1.916944,-54.722778,1500404,PA,Alenquer,SDWQ,PA0027,Cadastrado,31.0,Sem Operação,,,,,2025,False
+Fonte Boa,-2.5325,-66.083333,1301605,AM,Fonte Boa,SWOB,AM0014,Cadastrado,63.0,Sem Operação,,,,,2025,False
+Porto dos Gaúchos,-11.54,-57.378056,5106802,MT,Porto dos Gaúchos,SWPG,MT0010,Cadastrado,400.0,Sem Operação,,,,,2025,False
+Ilmo Aloísio Blume,-28.803889,-51.602222,4313300,RS,Nova Prata,SSNP,RS0041,Cadastrado,698.0,Sem Operação,,,,,2025,False
+São Pedro,-22.583611,-47.896111,3550407,SP,São Pedro,SDAE,SP0053,Interditado,566.0,Sem Operação,,,,,2025,False
+Ipiaú,-14.173333,-39.684167,2913903,BA,Ipiaú,SNIU,BA0030,Cadastrado,132.0,,,,,,2025,False
+Angra Dos Reis,-22.975278,-44.307222,3300100,RJ,Angra dos Reis,SDAG,RJ0010,Cadastrado,3.0,,,,,,2025,False
+Monte Alegre,-1.996667,-54.071389,1504802,PA,Monte Alegre,SNMA,PA0019,Cadastrado,99.0,,,,,,2025,False
