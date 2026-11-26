@@ -16,14 +16,16 @@ QPS = 30
 W, H = 540, 960  # pontos CSS; dpr 2 => 1080x1920
 
 TEXTOS = {
-    "pt": ["Transformei o Brasil num jogo de estratégia 🇧🇷",
+    "pt": ["Cópia descarada? 😅<em>Nada disso: homenagem ao mestre dos mestres, Andrej Karpathy, que fez o mapa dos EUA 🙇</em>",
+           "Transformei o Brasil num jogo de estratégia 🇧🇷",
            "Cada hexágono é dado real: IBGE, MapBiomas, ANEEL",
            "30 lentes de dados",
            "A floresta que sumiu desde 1985",
            "Procure a sua cidade",
            "O Brasil tem mais boi do que gente 🐄",
            "Terra Brasilis<br><span>letsdata.github.io/terra-brasilis</span>"],
-    "en": ["I turned Brazil into a strategy game 🇧🇷",
+    "en": ["Shameless copy? 😅<em>Nah, a tribute to the master of masters, @karpathy, who did the US one 🙇</em>",
+           "I turned Brazil into a strategy game 🇧🇷",
            "Every hex is real data: census, land cover, power plants",
            "30 data lenses",
            "Forest lost since 1985",
@@ -50,6 +52,7 @@ AJUDA = """
     font:700 29px/1.18 'Source Sans 3',sans-serif;color:#fff;letter-spacing:.2px;
     background:rgba(6,18,26,.86);border:1.5px solid rgba(214,172,82,.75);border-radius:14px;
     padding:14px 18px;box-shadow:0 6px 24px rgba(0,0,0,.45);opacity:0}
+  #cap em{display:block;margin-top:8px;font:600 22px/1.25 'Source Sans 3',sans-serif;font-style:normal;color:#e9c46a}
   #cap span{display:block;margin-top:6px;font:600 17px/1.2 'IBM Plex Mono',monospace;color:#e9c46a}`;
   document.head.appendChild(st);
   const d = document.createElement('div'); d.id = 'cap'; document.body.appendChild(d);
@@ -103,9 +106,11 @@ def main():
         manaus = pg.evaluate("__mun('Manaus','AM')")
 
         # Linha do tempo: (início, fim, texto) e ações em instantes.
-        legendas = [(0.3, 3.6, 0), (3.9, 8.4, 1), (8.7, 14.6, 2), (14.9, 22.6, 3), (22.9, 30.6, 4), (30.9, 36.6, 5), (36.9, 42.0, 6)]
+        ABRE = 4.2  # abertura com a homenagem ao Karpathy
+        base = [(0.3, 3.6, 0), (3.9, 8.4, 1), (8.7, 14.6, 2), (14.9, 22.6, 3), (22.9, 30.6, 4), (30.9, 36.6, 5), (36.9, 42.0, 6)]
+        legendas = [(0.3, 4.0, 0)] + [(a + ABRE, b + ABRE, i + 1) for a, b, i in base]
         acoes = {
-            0.0: lambda: pg.evaluate("c => __voar(c, 3600)", brasil),
+            0.0: lambda: pg.evaluate("c => __voar(c, 7800)", brasil),
             3.7: lambda: pg.evaluate("c => __voar(c, 3800)", sp_cam),
             8.6: lambda: (pg.evaluate("usarLente('renda')"), pg.evaluate("c => __voar(c, 1800)", brasil)),
             10.6: lambda: pg.evaluate("usarLente('fe')"),
@@ -125,7 +130,8 @@ def main():
             36.8: lambda: (pg.evaluate("document.querySelector('#m-conselho').hidden = true"),
                            pg.evaluate("c => __voar(c, 1600)", brasil)),
         }
-        total = 42.0
+        acoes = {0.0: acoes[0.0], **{t + ABRE: f for t, f in acoes.items() if t > 0}}
+        total = 42.0 + ABRE
         n = int(total * QPS)
         feitas = set()
         for k in range(n):
