@@ -702,7 +702,12 @@ function montarInteracao() {
   mini.addEventListener('pointerdown', ev => { miniArr = true; mini.setPointerCapture(ev.pointerId); miniIr(ev); });
   mini.addEventListener('pointermove', ev => { if (miniArr) miniIr(ev); });
   mini.addEventListener('pointerup', () => { miniArr = false; });
-  window.addEventListener('resize', redimensionar);
+  window.addEventListener('resize', () => {
+    // Se a pessoa ainda não mexeu no mapa (zoom inicial), reenquadra o Brasil no novo tamanho.
+    const inicial = !E.sel && Math.abs(E.s - E.sFit) < 1e-9;
+    redimensionar();
+    if (inicial) enquadrarBrasil(false);
+  });
   window.addEventListener('hashchange', () => { const h = location.hash.slice(1); if (h !== E.lente && LENTES.some(l => l.id === h && lenteDisponivel(l))) usarLente(h); });
   window.addEventListener('keydown', teclado);
 }
